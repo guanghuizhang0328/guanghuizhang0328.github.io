@@ -7,7 +7,7 @@ author_profile: true
 
 Journal
 ------
-1. Xia Xue, **Guanghui Zhang**, and Xiaochun Wang. "Anger weakens behavioral inhibition selectively in contact athletes." Frontiers in human neuroscience 12 (2018): 463.<br>doi: [10.3389/fnhum.2018.00463](https://doi.org/10.3389/fnhum.2018.00463)
+1. Xia Xue, **Guanghui Zhang**, and Xiaochun Wang. Anger weakens behavioral inhibition selectively in contact athletes. Frontiers in human neuroscience 12 (2018): 463.<br>doi: [10.3389/fnhum.2018.00463](https://doi.org/10.3389/fnhum.2018.00463)
 2. XueYan Li, HuiLi Wang, Pertti Saariluoma, **GuangHui Zhang**, YongJie Zhu, Chi Zhang，YuCong Feng，Tapani Ristaniemi (2019). Processing Mechanism of Chinese Verbal Jokes: Evidence from ERP and Neural Oscillations. Journal of Electronic Science and Technology, 17(3), 260-277. <br>doi: [10.11989/JEST.1674-862X.80520017](https://doi.org/10.11989/JEST.1674-862X.80520017)
 3. Xiawen Li, **Guanghui Zhang**, Chenglin Zhou, Xiaochun Wang. (2019). Negative emotional state slows down movement speed: behavioral and neural evidence. PeerJ, 7, e7591.<br>doi: [10.7717/peerj.7591](https://doi.org/10.7717/peerj.7591)
 4. Jiacheng Chen,Yanan Li, **Guanghui Zhang**, Xinhong Jin,Yingzhi Lua, Chenglin Zhou (2019). Enhanced inhibitory control during re-engagement processing in badminton athletes: An event-related potential study. Journal of sport and health science, 8(6), 585-594.<br>doi: [10.1016/j.jshs.2019.05.005](https://doi.org/10.1016/j.jshs.2019.05.005)
