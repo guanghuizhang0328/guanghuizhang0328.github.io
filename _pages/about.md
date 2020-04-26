@@ -13,11 +13,11 @@ redirect_from:
 
 Research Interests
 ======
-- Matrix/Tensor decomposition/factorization
-- Coupled/Linked/Joint tensor decomposition/factorization
-- Tensor optimization with regularizations
-- Blind Source Separation/Joint Blind Source Separation
-- Applications including biomedical signal processing, machine/deep learning etc.
+- 1. EEG/ERP/MEG
+- 2. Matrix/Tensor decomposition
+- 3. Time-frequency analysis
+- 4. Blind Source Separation (ICA/PCA)
+- 5. Applications for extraction of ERP/ERO etc.
 
 News 
 ======
