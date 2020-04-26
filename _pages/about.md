@@ -13,17 +13,10 @@ redirect_from:
 
 Research Interests
 ======
-- 1. EEG/ERP/MEG
-- 2. Matrix/Tensor decomposition
-- 3. Time-frequency analysis
-- 4. Blind Source Separation (ICA/PCA)
-- 5. Applications for the extraction of ERP/ERO etc.
+ 1. EEG/ERP/MEG
+ 2. Matrix/Tensor decomposition
+ 3. Time-frequency analysis
+ 4. Blind Source Separation (ICA/PCA)
+ 5. Applications for the extraction of ERP/ERO etc.
 
-News 
-======
-- [2019.11] Our journal paper "Group Analysis of Ongoing EEG Data Based on Fast
-Double-coupled Nonnegative Tensor Decomposition" is accepted by [Journal of Neuroscience Methods](https://www.sciencedirect.com/science/article/pii/S0165027019303590) (IF: 2.785).
-- [2019.05] Our abstract paper "Fast Double-coupled Nonnegative Tensor Decomposition" is accepted by [SPARS2019](http://www.spars-workshop.org/en/index.html).
-- [2019.04] One-year COMAS funding for my doctoral study from University of Jyväskylä.
-- [2019.03] Our paper "Generalization of Linked Canonical Polyadic Tensor Decomposition for Group Analysis" is accepted by [ISNN2019](https://conference.cs.cityu.edu.hk/isnn/).
-- [2019.02] Our paper "Fast Implementation of Double-Coupled Nonnegative Canonical Polyadic Decomposition" is accepted by [ICASSP2019](https://2019.ieeeicassp.org/).
+
