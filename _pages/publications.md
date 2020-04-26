@@ -22,7 +22,7 @@ Matlab Toolbox
 ------
 - **Name:** **ASAP for ERP_v1**
 - **Authors:** **Guanghui Zhang**, Fengyu Cong 
-- **Introduction:** This toolbox provides some advanced signal processing and analyze methods based on PCA to rapidly and objectively extract the event-related potential (ERP)of interest from the averaged ERP dataset at group-level. [[User Guide](../_publications/ASAP for ERP_v1_User Guide.pdf)]/[[Download within-subject design demo](../_publications/ASAP for ERP_v1_withinsubjects_demo.rar)]/ [[Download between-subject design demo](../_publications/ASAP for ERP_v1_betweensubjects_demo.rar)]
+- **Introduction:** This toolbox provides some advanced signal processing and analyze methods based on PCA to rapidly and objectively extract the event-related potential (ERP) of interest from the averaged ERP dataset at group-level. [[User Guide](../_publications/ASAP for ERP_v1_User Guide.pdf)]/[[Download within-subject design demo](../_publications/ASAP for ERP_v1_withinsubjects_demo.rar)]/ [[Download between-subject design demo](../_publications/ASAP for ERP_v1_betweensubjects_demo.rar)]
 - **Signal types for processing:** The averaged signal, which is a fourth-oder tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
 - **Functions:** Using the temporal principal component analysis (t-PCA) and Promax rotation to extract the components of interest from the original input or the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS.
 
