@@ -17,3 +17,11 @@ Journal
 Conference
 ------
 1. **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, Fengyu Cong (2017, October). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. <br>doi: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63)
+
+Matlab Toolbox
+------
+- Name and authors: **ERP_v1**: <br>**Authors**: **Guanghui Zhang**, Fengyu Cong<br>  
+- Introduction: This toolbox provides some advanced signal processing and analyzes methods based on PCA to rapidly and objectively extract the event-related potential (ERP)of interest from the averaged ERP dataset at group-level. [[Download](../_publications/ERP_v1.rar)]
+-Signal type for processing: The averaged signals (the preprocessing procedure has been finished) are collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
+- Functions: Using the temporal principal component analysis (t-PCA) and Promax rotation to extract the components of interest from the original input or the filtered signal (FFT filter or wavelet filter). And then, exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS.
+
