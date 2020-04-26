@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Journal
+------
+1. Xia Xue, **Guanghui Zhang**, and Xiaochun Wang. "Anger weakens behavioral inhibition selectively in contact athletes." Frontiers in human neuroscience 12 (2018): 463.<br>doi: [10.3389/fnhum.2018.00463](https://doi.org/10.3389/fnhum.2018.00463)
