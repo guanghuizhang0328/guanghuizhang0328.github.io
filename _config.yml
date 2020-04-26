@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guanghui Zhang | 张光辉"
-  avatar           : "profile.png"
+  name             : "Guanghui Zhang|张光辉"
+  avatar           : "guanghuizhang_profile.jpg"
   bio              : "zhang.guanghui@foxmail.com"
   location         : "Jyväskylä, Finland"
   employer         :
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"https://touch.facebook.com/guanghui.zhang.351?ref=bookmarks"
   foursquare       :
   github           : "guanghuizhang0328"
   google_plus      :
   keybase          :
-  instagram        : "guanghui.zhang"
+  instagram        : #"guanghui.zhang"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
