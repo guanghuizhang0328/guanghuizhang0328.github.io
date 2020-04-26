@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - I am a Ph.D. student in [Faculty of Information Technology](https://www.jyu.fi/it/en), [University of Jyväskylä](https://jyu.fi/en), and visiting Ph.D.student in [School of Biomedical Engineering](http://bme.dlut.edu.cn/), [Dalian University of Technology](http://en.dlut.edu.cn/), working with Prof. [Tapani Ristaniemi](http://users.jyu.fi/~riesta/) and Prof. [Fengyu Cong](http://www.escience.cn/people/cong/index.html). I am a member of [SPWC lab](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
-- I received my master's degree from Associate Prof. [Xiaofeng Gong](http://faculty.dlut.edu.cn/xfgong/zh_CN/index/699431/list/index.htm) at [Dalian University of Technology](http://en.dlut.edu.cn/). I obtained my bachelor's degree from [Shandong University, Weihai](https://www.wh.sdu.edu.cn/), advised by Associate Prof. [Sumei Li](https://ie.wh.sdu.edu.cn/info/1073/1253.htm).
+- I received my master's degree （2015.09-2018.06）from [Dalian University of Technology](http://en.dlut.edu.cn/) and the supervisor is Prof. [Fengyu Cong](http://www.escience.cn/people/cong/index.html). I obtained my bachelor's degree （2011.09-2015.06） from [Dalian Polytechnic University](http://en.dlpu.edu.cn/).
 
 Research Interests
 ======
@@ -17,7 +17,7 @@ Research Interests
 - 2. Matrix/Tensor decomposition
 - 3. Time-frequency analysis
 - 4. Blind Source Separation (ICA/PCA)
-- 5. Applications for extraction of ERP/ERO etc.
+- 5. Applications for the extraction of ERP/ERO etc.
 
 News 
 ======
