@@ -20,7 +20,7 @@ Conference
 
 Matlab Toolbox
 ------
-- **Name:** **ERP_v1**
+- **Name:** **ASAP for ERP_v1**
 - **Authors:** **Guanghui Zhang**, Fengyu Cong 
 - **Introduction:** This toolbox provides some advanced signal processing and analyzes methods based on PCA to rapidly and objectively extract the event-related potential (ERP)of interest from the averaged ERP dataset at group-level. [[User Guide](../_publications/ASAP for ERP_v1_User Guide.pdf)]/[[Download within-subject design demo](../_publications/ASAP for ERP_v1_withinsubjects_demo.rar)]/ [[Download between-subject design demo](../_publications/ASAP for ERP_v1_betweensubjects_demo.rar)]
 - **Signal types for processing:** The averaged signals (the preprocessing procedure has been finished) are collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
