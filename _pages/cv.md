@@ -25,4 +25,4 @@ Education
 Funding
 ======
 
-* China Government Scholarship, from China Scholarship Council, 2019.03∼2023.03, 1350 Euro/month
+* China Government Scholarship, from China Scholarship Council, 2019.03∼2023.03, 1350 €/month
