@@ -20,7 +20,7 @@ Education
 ======
 * **University of Jyväskylä, Faculty of Information Technology**<br>PhD candidate in Faculty of Information Technology (2019~current)<br>Supervisors: [Tapani Ristaniemi](http://users.jyu.fi/~riesta/) and [Fengyu Cong](http://www.escience.cn/people/cong/index.html)
 * **Dalian University of Technology, School of Biomedical Engineering**<br>M.E. in Biomedical Engineering (2015~2018)<br>Supervisor: [Fengyu Cong](http://www.escience.cn/people/cong/index.html)
-* **Dalian Polytechnic University, School of Information Science and Engineering**<br>B.E. in Communication Engineering (2011-2015)
+* **Dalian Polytechnic University, School of Information Science and Engineering**<br>B.E. in Communication Engineering (2011~2015)
 
 Funding
 ======
