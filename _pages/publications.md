@@ -27,11 +27,12 @@ Matlab Toolbox 1
  --**Signal types for processing:** The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
  --**Functions:** Using the temporal principal component analysis (t-PCA) and Promax rotation to extract the components of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS.
     
- Matlab Toolbox 2
+Matlab Toolbox 2
 ------   
- -**Name:** **ASAP ERP_ERO_v1**.
- -**Authors:** **Guanghui Zhang**, Fengyu Cong, and Tapani Ristaniemi .
- -**Introduction:** This toolbox provides some advanced signal processing and analysis methods based on temporal principal component analysis (t-PCA)/morlet continuous wavelet transform to rapidly and objectively extract the event-related potential (ERP)/event-related oscillation (ERO) of interest from the averaged ERP dataset at group-level. [[User Guide](../_publications/ASAP for ERP_v1_User Guide.zip)]/[[Download within-subject design demo](../_publications/ASAP for ERP_v1_withinsubjects_demo.zip)]/ [[Download between-subject design demo](../_publications/ASAP for ERP_v1_betweensubjects_demo.zip)].
- -**Signal types for processing:** The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
- -**Functions:** Using t-PCA and Promax rotation/continuous wavelet transform to extract the ERPs/EROs of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS.
+
+-**Name:** **ASAP ERP_ERO_v1**.
+-**Authors:** **Guanghui Zhang**, Fengyu Cong, and Tapani Ristaniemi .
+-**Introduction:** This toolbox provides some advanced signal processing and analysis methods based on temporal principal component analysis (t-PCA)/morlet continuous wavelet transform to rapidly and objectively extract the event-related potential (ERP)/event-related oscillation (ERO) of interest from the averaged ERP dataset at group-level. [[User Guide](../_publications/ASAP for ERP_v1_User Guide.zip)]/[[Download within-subject design demo](../_publications/ASAP for ERP_v1_withinsubjects_demo.zip)]/ [[Download between-subject design demo](../_publications/ASAP for ERP_v1_betweensubjects_demo.zip)].
+-**Signal types for processing:** The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
+-**Functions:** Using t-PCA and Promax rotation/continuous wavelet transform to extract the ERPs/EROs of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS.
 
