@@ -28,3 +28,5 @@ Matlab Toolbox 1
 * **Signal types for processing:** The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
 * **Functions:** Using t-PCA and Promax rotation/continuous wavelet transform to extract the ERPs/EROs of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS.
 
+* **Cite this toolbox:** Please cite our aticle if you use this tolbox to process and analyze your ERP datasets: **Guanghui Zhang**, Tapani Ristaniemi, and Fengyu Cong. Objective Extraction of Evoked Event-related Oscillation from Time-frequency Representation of Event-related Potentials. **Preprint**, bioRxiv 2020.05.17.100511. DOI:[10.1101/2020.05.17.100511](https://www.biorxiv.org/content/10.1101/2020.05.17.100511v1) .
+
