@@ -14,7 +14,7 @@ Journal
 5. **Guanghui Zhang**, Chi Zhang, Shuo Cao, Xue Xia, Xin Tan, Lichengxi Si, Chenxin Wang, Xiaochun Wang, Chenglin Zhou, Tapani Ristaniemi, and Fengyu Cong (2020). Multi-domain Features of the Non-phase-locked Component of Interest Extracted from ERP Data by Tensor Decomposition. Brain Topography, 33(1), 37-47. DOI: [10.1007/s10548-019-00750-8](https://doi.org/10.1007/s10548-019-00750-8)
 6.  Shuo Cao, Yanzhang Wang, Huili Wang, Hongjun Chen, **Guanghui Zhang**, and Kritikos Ada (2020). A Facilitatory Effect of Perceptual Incongruity on Target-Source Matching in Pictorial Metaphors of Chinese Advertising: EEG Evidence. Advances in Cognitive Psychology, 16(1), 1. DOI: [10.5709/acp-0279-z](https://doi.org/10.5709/acp-0279-z)
 7. **Guanghui Zhang**, Tapani Ristaniemi, and Fengyu Cong. Objective Extraction of Evoked Event-related Oscillation from Time-frequency Representation of Event-related Potentials. **Preprint**, bioRxiv 2020.05.17.100511. DOI:[10.1101/2020.05.17.100511](https://www.biorxiv.org/content/10.1101/2020.05.17.100511v1)
-8. JiaxinYu, YanWang, JianlingYu, **GuanghuiZhang**, and FengyuCong. Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1101/2020.05.17.100511](https://www.biorxiv.org/content/10.1101/2020.05.17.100511v1)
+8. Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong. Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1101/2020.05.17.100511](https://www.biorxiv.org/content/10.1101/2020.05.17.100511v1)
 
 Conference
 ------
