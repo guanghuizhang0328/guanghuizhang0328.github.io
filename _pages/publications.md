@@ -7,7 +7,7 @@ author_profile: true
 1.An emotional ERP data and Matlab script codes
 ------   
 * **Experimental paradigm:** Within-subject design with two-factor: Valence (extreme, moderate, and neutral) x Negative-category (disgusting and fearful) and the details can be found in [(Lu et al., 2016)](https://doi.org/10.1080/17470919.2015.1120238)
-* **Authors:** **Guanghui Zhang**, and Fengyu Cong.
+* **Subjects:** [(Lu et al., 2016)](../_publications/Evoked ERP ERO_v1.1 Demo data.zip),.
 * **ERP experimental paradigm:** 
 
 * This toolbox provides some advanced signal processing and analysis methods based on temporal principal component analysis (t-PCA)/morlet continuous wavelet transform to rapidly and objectively extract the event-related potential (ERP)/event-related oscillation (ERO) of interest from the averaged ERP dataset at group-level. [Download toolbox: Evoked ERP ERO_V1.1](../_publications/Evoked ERP ERO_v1.1.zip) /[Download demo datasets](../_publications/Evoked ERP ERO_v1.1 Demo data.zip) / [Download codes for forming a fourth-order tensor](../_publications/Evoked ERP ERO_v1.1_Forming_fourth_order_tensor_demo data.zip). Please add EEGLAB, for example, [eeglab14_1_2b](../_publications/eeglab14_1_2b.zip), into Matlab path before use this toolbox to process ERP signals.
