@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1.An ERP data and Matlab script codes
+1.An emotional ERP data and Matlab script codes
 ------   
 * **Experimental paradigm:** **Two-factor EEG experimental paradigm**.
 * **Authors:** **Guanghui Zhang**, and Fengyu Cong.
