@@ -6,7 +6,7 @@ author_profile: true
 ---
 1.An emotional ERP data and Matlab script codes
 ------   
-* **Experimental paradigm:** Within-subject design with two-factor: Valence (extreme, moderate, and neutral) x Negative-category (disgusting and fearful).
+* **Experimental paradigm:** Within-subject design with two-factor: Valence (extreme, moderate, and neutral) x Negative-category (disgusting and fearful) and the details can be found in [(Lu et al., 2016)](https://doi.org/10.1080/17470919.2015.1120238)
 * **Authors:** **Guanghui Zhang**, and Fengyu Cong.
 * **ERP experimental paradigm:** 
 
