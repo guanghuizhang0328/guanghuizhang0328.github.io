@@ -20,25 +20,25 @@ author_profile: true
 
 2.Journal Papers
 ------
-1. **Guanghui Zhang**, Chi Zhang, Shuo Cao, Xue Xia, Xin Tan, Lichengxi Si, Chenxin Wang, Xiaochun Wang, Chenglin Zhou, Tapani Ristaniemi, and Fengyu Cong (2020). Multi-domain Features of the Non-phase-locked Component of Interest Extracted from ERP Data by Tensor Decomposition. Brain Topography, 33(1), 37-47. DOI: [10.1007/s10548-019-00750-8](https://doi.org/10.1007/s10548-019-00750-8)
+(1) **Guanghui Zhang**, Chi Zhang, Shuo Cao, Xue Xia, Xin Tan, Lichengxi Si, Chenxin Wang, Xiaochun Wang, Chenglin Zhou, Tapani Ristaniemi, and Fengyu Cong (2020). Multi-domain Features of the Non-phase-locked Component of Interest Extracted from ERP Data by Tensor Decomposition. Brain Topography, 33(1), 37-47. DOI: [10.1007/s10548-019-00750-8](https://doi.org/10.1007/s10548-019-00750-8)
 
-2. **Guanghui Zhang**, Xueyan Li, and Fengyu Cong. Objective Extraction of Evoked Event-related Oscillation from Time-frequency Representation of Event-related Potentials. Neural Plasticity. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354)
+(2) **Guanghui Zhang**, Xueyan Li, and Fengyu Cong. Objective Extraction of Evoked Event-related Oscillation from Time-frequency Representation of Event-related Potentials. Neural Plasticity. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354)
 
-3. Xue Xia, **Guanghui Zhang**, and Xiaochun Wang. Anger weakens behavioral inhibition selectively in contact athletes. Frontiers in Human Neuroscience 12 (2018): 463. DOI: [10.3389/fnhum.2018.00463](https://doi.org/10.3389/fnhum.2018.00463)
+(3) Xue Xia, **Guanghui Zhang**, and Xiaochun Wang. Anger weakens behavioral inhibition selectively in contact athletes. Frontiers in Human Neuroscience 12 (2018): 463. DOI: [10.3389/fnhum.2018.00463](https://doi.org/10.3389/fnhum.2018.00463)
 
-4. XueYan Li, HuiLi Wang, Pertti Saariluoma, **GuangHui Zhang**, YongJie Zhu, Chi Zhang，YuCong Feng，and Tapani Ristaniemi (2019). Processing Mechanism of Chinese Verbal Jokes: Evidence from ERP and Neural Oscillations. Journal of Electronic Science and Technology, 17(3), 260-277. DOI: [10.11989/JEST.1674-862X.80520017](https://doi.org/10.11989/JEST.1674-862X.80520017)
+(4) XueYan Li, HuiLi Wang, Pertti Saariluoma, **GuangHui Zhang**, YongJie Zhu, Chi Zhang，YuCong Feng，and Tapani Ristaniemi (2019). Processing Mechanism of Chinese Verbal Jokes: Evidence from ERP and Neural Oscillations. Journal of Electronic Science and Technology, 17(3), 260-277. DOI: [10.11989/JEST.1674-862X.80520017](https://doi.org/10.11989/JEST.1674-862X.80520017)
 
-5. Xiawen Li, **Guanghui Zhang**, Chenglin Zhou, and Xiaochun Wang. (2019). Negative emotional state slows down movement speed: behavioral and neural evidence. PeerJ, 7, e7591. DOI: [10.7717/peerj.7591](https://doi.org/10.7717/peerj.7591)
+(5) Xiawen Li, **Guanghui Zhang**, Chenglin Zhou, and Xiaochun Wang. (2019). Negative emotional state slows down movement speed: behavioral and neural evidence. PeerJ, 7, e7591. DOI: [10.7717/peerj.7591](https://doi.org/10.7717/peerj.7591)
 
-6. Jiacheng Chen,Yanan Li, **Guanghui Zhang**, Xinhong Jin,Yingzhi Lua, and Chenglin Zhou (2019). Enhanced inhibitory control during re-engagement processing in badminton athletes: An event-related potential study. Journal of Sport and Health Science, 8(6), 585-594. DOI: [10.1016/j.jshs.2019.05.005](https://doi.org/10.1016/j.jshs.2019.05.005)
+(6) Jiacheng Chen,Yanan Li, **Guanghui Zhang**, Xinhong Jin,Yingzhi Lua, and Chenglin Zhou (2019). Enhanced inhibitory control during re-engagement processing in badminton athletes: An event-related potential study. Journal of Sport and Health Science, 8(6), 585-594. DOI: [10.1016/j.jshs.2019.05.005](https://doi.org/10.1016/j.jshs.2019.05.005)
 
-7.  Shuo Cao, Yanzhang Wang, Huili Wang, Hongjun Chen, **Guanghui Zhang**, and Kritikos Ada (2020). A Facilitatory Effect of Perceptual Incongruity on Target-Source Matching in Pictorial Metaphors of Chinese Advertising: EEG Evidence. Advances in Cognitive Psychology, 16(1), 1. DOI: [10.5709/acp-0279-z](https://doi.org/10.5709/acp-0279-z)
+(7)  Shuo Cao, Yanzhang Wang, Huili Wang, Hongjun Chen, **Guanghui Zhang**, and Kritikos Ada (2020). A Facilitatory Effect of Perceptual Incongruity on Target-Source Matching in Pictorial Metaphors of Chinese Advertising: EEG Evidence. Advances in Cognitive Psychology, 16(1), 1. DOI: [10.5709/acp-0279-z](https://doi.org/10.5709/acp-0279-z)
 
-8. Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
+(8) Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
 
 3.Conference Papers
 ------
-1. **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, and Fengyu Cong (2018). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. DOI: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63)
+(1) **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, and Fengyu Cong (2018). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. DOI: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63)
 
     
 4.Matlab Toolbox 1
