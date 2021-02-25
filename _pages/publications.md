@@ -9,7 +9,7 @@ author_profile: true
 * **Experimental paradigm:** **Two-factor EEG experimental paradigm**.
 * **Authors:** **Guanghui Zhang**, and Fengyu Cong.
 * **ERP experimental paradigm:** 
-* 
+
 * This toolbox provides some advanced signal processing and analysis methods based on temporal principal component analysis (t-PCA)/morlet continuous wavelet transform to rapidly and objectively extract the event-related potential (ERP)/event-related oscillation (ERO) of interest from the averaged ERP dataset at group-level. [Download toolbox: Evoked ERP ERO_V1.1](../_publications/Evoked ERP ERO_v1.1.zip) /[Download demo datasets](../_publications/Evoked ERP ERO_v1.1 Demo data.zip) / [Download codes for forming a fourth-order tensor](../_publications/Evoked ERP ERO_v1.1_Forming_fourth_order_tensor_demo data.zip). Please add EEGLAB, for example, [eeglab14_1_2b](../_publications/eeglab14_1_2b.zip), into Matlab path before use this toolbox to process ERP signals.
 * **Signal types for processing:** The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
 * **Functions:** Using t-PCA and Promax rotation/continuous wavelet transform to extract the ERPs/EROs of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS.
