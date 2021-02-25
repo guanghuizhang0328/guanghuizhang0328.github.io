@@ -6,7 +6,7 @@ author_profile: true
 ---
 1.An emotional ERP data and Matlab script codes
 ------   
-* **Experimental paradigm:** **Two-factor EEG experimental paradigm**.
+* **Experimental paradigm:** Two-factor within-subject: valence (extreme, moderate, and neutral)×negative category (disgusting and fearful).
 * **Authors:** **Guanghui Zhang**, and Fengyu Cong.
 * **ERP experimental paradigm:** 
 
