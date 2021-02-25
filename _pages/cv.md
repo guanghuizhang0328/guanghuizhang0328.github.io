@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /ERP_EEG datasets and Matlab script codes/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
