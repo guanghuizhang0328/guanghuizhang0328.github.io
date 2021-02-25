@@ -4,8 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1.EEG/ERP data and Matlab script codes
+------   
+* **Name:** **Evoked ERP_ERO_v1.1**.
+* **Authors:** **Guanghui Zhang**, and Fengyu Cong.
+* **Introduction:** This toolbox provides some advanced signal processing and analysis methods based on temporal principal component analysis (t-PCA)/morlet continuous wavelet transform to rapidly and objectively extract the event-related potential (ERP)/event-related oscillation (ERO) of interest from the averaged ERP dataset at group-level. [Download toolbox: Evoked ERP ERO_V1.1](../_publications/Evoked ERP ERO_v1.1.zip) /[Download demo datasets](../_publications/Evoked ERP ERO_v1.1 Demo data.zip) / [Download codes for forming a fourth-order tensor](../_publications/Evoked ERP ERO_v1.1_Forming_fourth_order_tensor_demo data.zip). Please add EEGLAB, for example, [eeglab14_1_2b](../_publications/eeglab14_1_2b.zip), into Matlab path before use this toolbox to process ERP signals.
+* **Signal types for processing:** The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  
+* **Functions:** Using t-PCA and Promax rotation/continuous wavelet transform to extract the ERPs/EROs of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS.
 
-Journal
+* **Cite this toolbox:** Please cite our aticle if you use this tolbox to process and analyze your ERP datasets: **Guanghui Zhang**, Xueyan Li, and Fengyu Cong. Objective Extraction of Evoked Event-related Oscillation from Time-frequency Representation of Event-related Potentials. Neural plasticity. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354).
+
+
+
+2.Journal
 ------
 1. **Guanghui Zhang**, Chi Zhang, Shuo Cao, Xue Xia, Xin Tan, Lichengxi Si, Chenxin Wang, Xiaochun Wang, Chenglin Zhou, Tapani Ristaniemi, and Fengyu Cong (2020). Multi-domain Features of the Non-phase-locked Component of Interest Extracted from ERP Data by Tensor Decomposition. Brain Topography, 33(1), 37-47. DOI: [10.1007/s10548-019-00750-8](https://doi.org/10.1007/s10548-019-00750-8)
 
@@ -23,12 +34,12 @@ Journal
 
 8. Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
 
-Conference
+3.Conference
 ------
 1. **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, and Fengyu Cong (2018). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. DOI: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63)
 
     
-Matlab Toolbox 1
+4.Matlab Toolbox 1
 ------   
 * **Name:** **Evoked ERP_ERO_v1.1**.
 * **Authors:** **Guanghui Zhang**, and Fengyu Cong.
