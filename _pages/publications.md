@@ -4,16 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1.Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an individual Subject
+1.EEG data  and Matlab script codes
 ------   
+
+* (1) Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an individual Subject
+
 * **EEG datasets**: **(1)** Experimental paradigm - Within-subject design with two-factor: Valence (extreme, moderate, and neutral) x Negative-category (disgusting and fearful) and the details can be found in [(Lu et al., 2016)](https://doi.org/10.1080/17470919.2015.1120238). **(2)** Preprocessed EEG for different participants - [Sub#1](../_publications/Sub_1_Emotional_Lu_2017.7z); [Sub#2](../_publications/Sub_2_Emotional_Lu_2017.7z); [Sub#3](../_publications/Sub_3_Emotional_Lu_2017.7z);  [Sub#4](../_publications/Sub_4_Emotional_Lu_2017.7z); [Sub#5](../_publications/Sub_5_Emotional_Lu_2017.7z); [Sub#6](../_publications/Sub_6_Emotional_Lu_2017.7z); [Sub#7](../_publications/Sub_7_Emotional_Lu_2017.7z); [Sub#8](../_publications/Sub_8_Emotional_Lu_2017.7z); [Sub#9](../_publications/Sub_9_Emotional_Lu_2017.7z); [Sub#10](../_publications/Sub_10_Emotional_Lu_2017.7z); [Sub#11](../_publications/Sub_11_Emotional_Lu_2017.7z); [Sub#12](../_publications/Sub_12_Emotional_Lu_2017.7z); [Sub#13](../_publications/Sub_13_Emotional_Lu_2017.7z); [Sub#14](../_publications/Sub_14_Emotional_Lu_2017.7z); [Sub#15](../_publications/Sub_15_Emotional_Lu_2017.7z); [Sub#16](../_publications/Sub_16_Emotional_Lu_2017.7z); [Sub#17](../_publications/Sub_17_Emotional_Lu_2017.7z); [Sub#18](../_publications/Sub_18_Emotional_Lu_2017.7z); [Sub#19](../_publications/Sub_19_Emotional_Lu_2017.7z); [Sub#20](../_publications/Sub_20_Emotional_Lu_2017.7z); [Sub#21](../_publications/Sub_21_Emotional_Lu_2017.7z); [Sub#22](../_publications/Sub_22_Emotional_Lu_2017.7z).
-* **Matlab script codes:** Four different techniqes are used to N2 of interest from the first 20 subjects' datasets ([Download Matlab script codes](../_publications/Emotional_Lu_2017_codes_for_EEG_ERP_Processing.7z)). (1) 'WF': N2 is quantified using conventional time-domain analysis at group analysis; (2)'iPCA': N2 is separately quantified from the single-trial EEG of individual subject using temporal principal component analysis and Promax rotation. (3) 'aPCA': N2 is measured from the averaged ERP data across single trials of all subject simultaneously. (4) 'sPCA': N2 is measured from the signle-trial EEG data of all subject simultaneously.
+* **Matlab script codes:** Four different techniqes are used to N2 of interest from the first 20 subjects' datasets ([Download Matlab script codes](../_publications/Emotional_Lu_2017_codes_for_EEG_ERP_Processing.7z)). (a) 'WF': N2 is quantified using conventional time-domain analysis at group analysis; (b)'iPCA': N2 is separately quantified from the single-trial EEG of individual subject using temporal principal component analysis and Promax rotation. (c) 'aPCA': N2 is measured from the averaged ERP data across single trials of all subject simultaneously. (d) 'sPCA': N2 is measured from the signle-trial EEG data of all subject simultaneously.
 
 * **Citations:**   (a). **Yingzhi Lu**,Yu Luo,Yi Lei,Kyle J. Jaquess,Chenglin Zhou   and Hong Li. (2016). Decomposing valence intensity effects in disgusting and fearful stimuli: an event-related potential study. Social neuroscience, 11(6), 618-626. DOI:[10.1080/17470919.2015.1120238](https://doi.org/10.1080/17470919.2015.1120238). (b) **Guanghui Zhang**, Xueyan Li, and Fengyu Cong. Objective Extraction of Evoked Event-related Oscillation from Time-frequency Representation of Event-related Potentials. Neural plasticity. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354). (c)
 
 
 
-2.Journal Papers
+2.Journal  and conference papers
 ------
 * **Guanghui Zhang**, Chi Zhang, Shuo Cao, Xue Xia, Xin Tan, Lichengxi Si, Chenxin Wang, Xiaochun Wang, Chenglin Zhou, Tapani Ristaniemi, and Fengyu Cong (2020). Multi-domain Features of the Non-phase-locked Component of Interest Extracted from ERP Data by Tensor Decomposition. Brain Topography, 33(1), 37-47. DOI: [10.1007/s10548-019-00750-8](https://doi.org/10.1007/s10548-019-00750-8)
 
@@ -31,12 +34,10 @@ author_profile: true
 
 * Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
 
-3.Conference Papers
-------
 * **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, and Fengyu Cong (2018). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. DOI: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63)
 
     
-4.Matlab Toolbox 1
+3.Matlab Toolbox 1
 ------   
 * **Name:** **Evoked ERP_ERO_v1.1**.
 * **Authors:** **Guanghui Zhang**, and Fengyu Cong.
