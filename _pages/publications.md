@@ -16,6 +16,8 @@ author_profile: true
 
 2.Journal  and conference papers
 ------
+* **Guanghui Zhang**, Xueyan Li, Yingzhi Lu, Timo Tiihonen, Zheng Chang, and Fengyu Cong. (2021). Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject. bioRxiv. DOI:[10.1101/2021.03.10.434892](https://doi.org/10.1101/2021.03.10.434892)
+
 * **Guanghui Zhang**, Chi Zhang, Shuo Cao, Xue Xia, Xin Tan, Lichengxi Si, Chenxin Wang, Xiaochun Wang, Chenglin Zhou, Tapani Ristaniemi, and Fengyu Cong (2020). Multi-domain Features of the Non-phase-locked Component of Interest Extracted from ERP Data by Tensor Decomposition. Brain Topography, 33(1), 37-47. DOI: [10.1007/s10548-019-00750-8](https://doi.org/10.1007/s10548-019-00750-8)
 
 * **Guanghui Zhang**, Xueyan Li, and Fengyu Cong (2020) Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354)
