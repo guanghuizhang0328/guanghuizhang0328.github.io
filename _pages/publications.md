@@ -22,9 +22,9 @@ author_profile: true
 
 * **Independent component analysis (ICA)**: Applications of ICA on low/high dense EEG data ([Download the demo for low-dense EEG](../_publications/WaveletFilter-ICA_ERP_lowDenseEEG_20160513.rar) & [Download the demo for high-dense EEG](../_publications/WaveletFilter-ICA_ERP_highDenseEEG.zip)).
 
-* **Tensor decomposition**: Nonnegative canonical polyadic decomposition (NCPD) ([Download the demo for NCPD](../_publications/NTF_CP_ERP-Tensor-TFR_2018.rar)); Nonnegative Tucker decomposition(NTD) ([Download the demo for NTD](../_publications/NTF_Tucker_ERP-Tensor-TFR_2018.rar)).
+* **Tensor decomposition**:[Nonnegative canonical polyadic decomposition (NCPD)](../_publications/NTF_CP_ERP-Tensor-TFR_2018.rar); [Nonnegative Tucker decomposition(NTD)](../_publications/NTF_Tucker_ERP-Tensor-TFR_2018.rar).
 
-* **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis includes one factor, two factors, and three factors ([Download demo](../_publications/Within subjects analysis repeated-measurement-ANOVA.zip)); Between-subject analysis contains [two factors](../_publications/Between-subject_twofactors.zip) and three factors (No avaliable).
+* **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis includes [one factor](../_publications/Within-subject rm-ANOVA_one factor.zip), [two factors](../_publications/Within-subject rm-ANOVA_two factors.zip), and [three factors](../_publications/Within-subject rm-ANOVA_three factors.zip); Between-subject analysis contains [two factors](../_publications/Between-subject_twofactors.zip) and three factors (No avaliable).
 
 
 
