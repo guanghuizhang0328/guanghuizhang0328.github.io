@@ -13,8 +13,29 @@ author_profile: true
 * **Citations:**  **(a) Guanghui Zhang**, Xueyan Li, Yingzhi Lu, Timo Tiihonen, Zheng Chang, and Fengyu Cong. (2021). Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject. bioRxiv. DOI:[10.1101/2021.03.10.434892](https://doi.org/10.1101/2021.03.10.434892). **(b) Yingzhi Lu**,Yu Luo,Yi Lei,Kyle J. Jaquess,Chenglin Zhou   and Hong Li. (2016). Decomposing valence intensity effects in disgusting and fearful stimuli: an event-related potential study. Social neuroscience, 11(6), 618-626. DOI:[10.1080/17470919.2015.1120238](https://doi.org/10.1080/17470919.2015.1120238). **(c) Guanghui Zhang**, Xueyan Li, and Fengyu Cong (2020). Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354). 
 
 
+2.Matlab script codes
+------   
+* **Toolbox:** **Evoked ERP_ERO_v1.1**. **(a)** Author:Guanghui Zhang, and Fengyu Cong. **(b)** Introduction: This toolbox provides some advanced signal processing and analysis methods based on temporal principal component analysis (t-PCA)/morlet continuous wavelet transform to rapidly and objectively extract the event-related potential (ERP)/event-related oscillation (ERO) of interest from the averaged ERP dataset at group-level([Download toolbox: Evoked ERP ERO_V1.1](../_publications/Evoked ERP ERO_v1.1.zip) /[Download demo datasets](../_publications/Evoked ERP ERO_v1.1 Demo data.zip) / [Download codes for forming a fourth-order tensor](../_publications/Evoked ERP ERO_v1.1_Forming_fourth_order_tensor_demo data.zip)). Please add EEGLAB, for example, [eeglab14_1_2b](../_publications/eeglab14_1_2b.zip), into Matlab path before use this toolbox to process ERP signals. **(c)** Signal type for processing: The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  **(d)** Function: Using t-PCA and Promax rotation/continuous wavelet transform to extract the ERPs/EROs of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS. **(e)** Cite this toolbox:  **Guanghui Zhang**, Xueyan Li, and Fengyu Cong. Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354).
 
-2.Journal  and conference papers
+* **Independent component analysis (ICA)**: Applications of ICA on low/high dense EEG data ([Download the demo for low-dense EEG](../_publications/WaveletFilter-ICA_ERP_lowDenseEEG_20160513.rar) & [Download the demo for high-dense EEG](../_publications/WaveletFilter-ICA_ERP_highDenseEEG.zip)).
+
+* **Tensor decomposition**: Nonnegative canonical polyadic decomposition (NCPD) ([Download the demo for NCPD](../_publications/NTF_CP_ERP-Tensor-TFR_2018.rar)); Nonnegative Tucker decomposition(NTD) ([Download the demo for NTD](../_publications/NTF_Tucker_ERP-Tensor-TFR_2018.rar)).
+
+* **Principal component analysis(PCA)**: Group PCA analysis for Single trial EEG data and averaged ERP data; Individual-subject PCA analysis (See 1.EEG datasets  and Matlab script codes for'Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject').
+
+
+* **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis include one factor, two factors, and three factors ([Download demo](../_publications/Within subjects analysis repeated-measurement-ANOVA.zip)).
+
+
+
+
+
+
+
+
+
+
+3.Journal  and conference papers
 ------
 * **Guanghui Zhang**, Xueyan Li, Yingzhi Lu, Timo Tiihonen, Zheng Chang, and Fengyu Cong. (2021). Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject. bioRxiv. DOI:[10.1101/2021.03.10.434892](https://doi.org/10.1101/2021.03.10.434892)
 
@@ -34,18 +55,4 @@ author_profile: true
 *  Shuo Cao, Yanzhang Wang, Huili Wang, Hongjun Chen, **Guanghui Zhang**, and Kritikos Ada (2020). A Facilitatory Effect of Perceptual Incongruity on Target-Source Matching in Pictorial Metaphors of Chinese Advertising: EEG Evidence. Advances in Cognitive Psychology, 16(1), 1. DOI: [10.5709/acp-0279-z](https://doi.org/10.5709/acp-0279-z)
 
 * Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
-
-
-3.Matlab script codes
-------   
-* **Toolbox:** **Evoked ERP_ERO_v1.1**. **(a)** Author:Guanghui Zhang, and Fengyu Cong. **(b)** Introduction: This toolbox provides some advanced signal processing and analysis methods based on temporal principal component analysis (t-PCA)/morlet continuous wavelet transform to rapidly and objectively extract the event-related potential (ERP)/event-related oscillation (ERO) of interest from the averaged ERP dataset at group-level([Download toolbox: Evoked ERP ERO_V1.1](../_publications/Evoked ERP ERO_v1.1.zip) /[Download demo datasets](../_publications/Evoked ERP ERO_v1.1 Demo data.zip) / [Download codes for forming a fourth-order tensor](../_publications/Evoked ERP ERO_v1.1_Forming_fourth_order_tensor_demo data.zip)). Please add EEGLAB, for example, [eeglab14_1_2b](../_publications/eeglab14_1_2b.zip), into Matlab path before use this toolbox to process ERP signals. **(c)** Signal type for processing: The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  **(d)** Function: Using t-PCA and Promax rotation/continuous wavelet transform to extract the ERPs/EROs of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS. **(e)** Cite this toolbox:  **Guanghui Zhang**, Xueyan Li, and Fengyu Cong. Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354).
-
-* **Independent component analysis (ICA)**: Applications of ICA on low/high dense EEG data ([Download the demo for low-dense EEG](../_publications/WaveletFilter-ICA_ERP_lowDenseEEG_20160513.rar) & [Download the demo for high-dense EEG](../_publications/WaveletFilter-ICA_ERP_highDenseEEG.zip)).
-
-* **Tensor decomposition**: Nonnegative canonical polyadic decomposition (NCPD) ([Download the demo for NCPD](../_publications/NTF_CP_ERP-Tensor-TFR_2018.rar)); Nonnegative Tucker decomposition(NTD) ([Download the demo for NTD](../_publications/NTF_Tucker_ERP-Tensor-TFR_2018.rar)).
-
-* **Principal component analysis(PCA)**: Group PCA analysis for Single trial EEG data and averaged ERP data; Individual-subject PCA analysis (See 1.EEG datasets  and Matlab script codes for'Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject').
-
-
-* **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis include one factor, two factors, and three factors ([Download demo](../_publications/Within subjects analysis repeated-measurement-ANOVA.zip)).
 
