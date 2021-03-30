@@ -24,7 +24,7 @@ author_profile: true
 
 * **Tensor decomposition**: [Nonnegative canonical polyadic decomposition (NCPD)](../_publications/NTF_CP_ERP-Tensor-TFR_2018.rar); [Nonnegative Tucker decomposition(NTD)](../_publications/NTF_Tucker_ERP-Tensor-TFR_2018.rar).
 
-* **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis includes [one factor](../_publications/Within-subject rm-ANOVA_one factor.zip), [two factors](../_publications/Within-subject rm-ANOVA_two factors.zip), and [three factors](../_publications/Within-subject rm-ANOVA_three factors.zip); Between-subject analysis contains [two factors](../_publications/Between-subject_twofactors.zip) and three factors (No avaliable).
+* **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis includes [one factor](../_publications/Within-subject rm-ANOVA_one factor.zip), [two factors](../_publications/Within-subject rm-ANOVA_two factors.zip), and [three factors](../_publications/Within-subject rm-ANOVA_three factors.zip); Between-subject analysis contains [two factors](../_publications/Between-subject_twofactors.zip) and three factors (Not avaliable).
 
 
 
