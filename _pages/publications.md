@@ -24,7 +24,7 @@ author_profile: true
 * **Principal component analysis (PCA)**: Group PCA analysis for Single trial EEG data and averaged ERP data; Individual-subject PCA analysis (See 1.EEG datasets  and Matlab script codes for'Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject').
 
 
-* **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis include one factor, two factors, and three factors ([Download demo](../_publications/Within subjects analysis repeated-measurement-ANOVA.zip)).
+* **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis include one factor, two factors, and three factors ([Download demo](../_publications/Within subjects analysis repeated-measurement-ANOVA.zip)); Between-subject analysis-two focters ([Download demo](../_publications/Between-subject_twofactors.zip))
 
 
 
