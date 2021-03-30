@@ -21,7 +21,7 @@ author_profile: true
 
 * **Tensor decomposition**: Nonnegative canonical polyadic decomposition (NCPD) ([Download the demo for NCPD](../_publications/NTF_CP_ERP-Tensor-TFR_2018.rar)); Nonnegative Tucker decomposition(NTD) ([Download the demo for NTD](../_publications/NTF_Tucker_ERP-Tensor-TFR_2018.rar)).
 
-* **Principal component analysis(PCA)**: Group PCA analysis for Single trial EEG data and averaged ERP data; Individual-subject PCA analysis (See 1.EEG datasets  and Matlab script codes for'Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject').
+* **Principal component analysis (PCA)**: Group PCA analysis for Single trial EEG data and averaged ERP data; Individual-subject PCA analysis (See 1.EEG datasets  and Matlab script codes for'Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject').
 
 
 * **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis include one factor, two factors, and three factors ([Download demo](../_publications/Within subjects analysis repeated-measurement-ANOVA.zip)).
