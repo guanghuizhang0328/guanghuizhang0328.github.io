@@ -18,6 +18,6 @@ Research Interests
  2. Matrix/Tensor decomposition
  3. Time-frequency analysis
  4. Blind Source Separation (ICA/PCA)
- 5. Applications for the extraction of ERP/ERO etc.
+ 5. Event-related oscillations [Download toolbox: Evoked ERP ERO_V1.1](../_publications/Evoked ERP ERO_v1.1.zip) /[Download demo datasets](../_publications/Evoked ERP ERO_v1.1 Demo data.zip) / [Download codes for forming a fourth-order tensor](../_publications/Evoked ERP ERO_v1.1_Forming_fourth_order_tensor_demo data.zip).
 
 
