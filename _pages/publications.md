@@ -20,7 +20,7 @@ author_profile: true
 
 * **Principal component analysis (PCA)**: Group PCA analysis for Single trial EEG data and averaged ERP data; Individual-subject PCA analysis (See 1.EEG datasets  and Matlab script codes for'Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject').
 
-* **Independent component analysis (ICA)**: Applications of ICA on low/high dense EEG data ([Download the demo for low-dense EEG](../_publications/WaveletFilter-ICA_ERP_lowDenseEEG_20160513.rar) & [Download the demo for high-dense EEG](../_publications/WaveletFilter-ICA_ERP_highDenseEEG.zip)).
+* **Independent component analysis (ICA)**: Applications of ICA on [low.dense](../_publications/WaveletFilter-ICA_ERP_lowDenseEEG_20160513.rar)/[high-dense](../_publications/WaveletFilter-ICA_ERP_highDenseEEG.zip) EEG data.
 
 * **Tensor decomposition**:[Nonnegative canonical polyadic decomposition (NCPD)](../_publications/NTF_CP_ERP-Tensor-TFR_2018.rar); [Nonnegative Tucker decomposition(NTD)](../_publications/NTF_Tucker_ERP-Tensor-TFR_2018.rar).
 
