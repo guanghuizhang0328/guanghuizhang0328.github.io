@@ -31,10 +31,6 @@ author_profile: true
 
 
 
-
-
-
-
 3.Journal  and conference papers
 ------
 * **Guanghui Zhang**, Xueyan Li, Yingzhi Lu, Timo Tiihonen, Zheng Chang, and Fengyu Cong. (2021). Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject. bioRxiv. DOI:[10.1101/2021.03.10.434892](https://doi.org/10.1101/2021.03.10.434892)
