@@ -8,9 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-[CV(pdf)](../_publications/CV_Guanghui Zhang.pdf).
-------
-
 Personal Information
 ------
 - Mattilanniemi 2, 40100 Jyväskylä, Finalnd. [Find me in google](https://goo.gl/maps/rXFqdB3Jm7L1rycSA)
@@ -29,3 +26,6 @@ Funding
 ======
 
 * China Government Scholarship, from China Scholarship Council, 2019.03∼2023.03, 1350 €/month
+
+[CV(pdf)](../_publications/CV_Guanghui Zhang.pdf).
+======
