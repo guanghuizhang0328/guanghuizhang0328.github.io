@@ -27,5 +27,7 @@ Funding
 
 * China Government Scholarship, from China Scholarship Council, 2019.03∼2023.03, 1350 €/month
 
-[CV(pdf)](../_publications/CV_Guanghui Zhang.pdf).
+CV
 ======
+
+[PDF](../_publications/CV_Guanghui Zhang.pdf).
