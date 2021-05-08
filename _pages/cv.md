@@ -15,7 +15,7 @@ Personal Information
 - Phone: +358 466207995
 - Email: zhang.guanghui@foxmail.com or guanghui.g.zhang@student.jyu.fi
 - Homepage:  [https://guanghuizhang0328.github.io/](https://guanghuizhang0328.github.io/)
-- [CV(PDF)](../_publications/CV_Guanghui Zhang.pdf);
+- [CV](../_publications/CV_Guanghui Zhang.pdf);
 
 Education
 ======
