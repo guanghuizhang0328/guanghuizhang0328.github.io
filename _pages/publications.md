@@ -53,6 +53,6 @@ author_profile: true
 * Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
 
 
-4. Dissertation
+4.Dissertation
 ------
 * **Feiyang Shen**  基于事件相关点位的超扫描脑连接分析方法 'Event-related Potential Based Brain Connectivity Analysis in Hyperscanning' (the contents are in Chinese and the PCA analysis in this thesis is based on the ERO_ERP toolbox).
