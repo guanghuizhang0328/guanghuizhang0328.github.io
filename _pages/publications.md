@@ -55,4 +55,4 @@ author_profile: true
 
 4.Dissertation
 ------
-* **Feiyang Shen**  基于事件相关点位的超扫描脑连接分析方法 'Event-related Potential Based Brain Connectivity Analysis in Hyperscanning' (the contents are in Chinese and the PCA analysis in this thesis is based on the ERO_ERP toolbox).
+* **Feiyang Shen**. Event-related Potential Based Brain Connectivity Analysis in Hyperscanning (the contents are in Chinese and the PCA analysis in this thesis is based on the ERO_ERP toolbox).
