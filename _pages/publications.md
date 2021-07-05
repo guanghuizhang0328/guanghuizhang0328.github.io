@@ -55,7 +55,7 @@ author_profile: true
 
 4.Dissertation
 ------
-* **Guanghui Zhang**, Methods to extract multi-dimensional features of event-related brain activities from EEG data, University of Jyväskylä, Finland. August 12 2021 [(Download it)](../_publications/Guanghui Zhang_PhD_thesis.pdf).
+* **Guanghui Zhang**, Methods to extract multi-dimensional features of event-related brain activities from EEG data, University of Jyväskylä, Finland. August 12 2021 [(Download dissertation)](https://jyx.jyu.fi/handle/123456789/76955#).
 
 * **Feiyang Shen**, Event-related Potential Based Brain Connectivity Analysis in Hyperscanning [(Download it)](../_publications/ShenFeiYang-BachelorThesis-2021-June.pdf) (the contents are in Chinese and the PCA analysis in this thesis is based on the ERP_ERO toolbox).
 
