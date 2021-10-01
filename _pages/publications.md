@@ -50,10 +50,10 @@ author_profile: true
 
 *  Shuo Cao, Yanzhang Wang, Huili Wang, Hongjun Chen, **Guanghui Zhang**, and Kritikos Ada (2020). A Facilitatory Effect of Perceptual Incongruity on Target-Source Matching in Pictorial Metaphors of Chinese Advertising: EEG Evidence. Advances in Cognitive Psychology, 16(1), 1. DOI: [10.5709/acp-0279-z](https://doi.org/10.5709/acp-0279-z)
 
-* Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
+* Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1111/psyp.13942](https://doi.org/10.1111/psyp.13942)
 
 
-* Yingying Wang, Qingchun Ji, Rao Fu, **Guanghui Zhang**, Yingzhi Lu,  and Chenglin Zhou(2021). Hand‐related action words impair action anticipation in expert table tennis players: Behavioral and neural evidence. Psychophysiology, e13942.
+* Yingying Wang, Qingchun Ji, Rao Fu, **Guanghui Zhang**, Yingzhi Lu,  and Chenglin Zhou(2021). Hand‐related action words impair action anticipation in expert table tennis players: Behavioral and neural evidence. Psychophysiology, e13942.  DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
 
 
 4.Dissertation
