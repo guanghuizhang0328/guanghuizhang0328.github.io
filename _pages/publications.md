@@ -53,6 +53,9 @@ author_profile: true
 * Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663)
 
 
+* Yingying Wang, Qingchun Ji, Rao Fu, **Guanghui Zhang**, Yingzhi Lu,  and Chenglin Zhou(2021). Hand‐related action words impair action anticipation in expert table tennis players: Behavioral and neural evidence. Psychophysiology, e13942.
+
+
 4.Dissertation
 ------
 * **Guanghui Zhang**, Methods to extract multi-dimensional features of event-related brain activities from EEG data, University of Jyväskylä, Finland. August 12 2021 [(Download dissertation)](https://jyx.jyu.fi/handle/123456789/76955#).
