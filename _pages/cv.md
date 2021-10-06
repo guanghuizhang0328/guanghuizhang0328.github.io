@@ -10,14 +10,14 @@ redirect_from:
 
 Personal Information
 ------
-- Mattilanniemi 2, 40100 Jyväskylä, Finalnd. [Find me in google](https://goo.gl/maps/rXFqdB3Jm7L1rycSA)
-- Phone: +358 466207995
+- Center for Mind and Brain, University of California, Davis, United States
+- Phone: +86 18842604636
 - Email: zhang.guanghui@foxmail.com or ghzhang@ucdavis.edu
 - Homepage:  [https://guanghuizhang0328.github.io/](https://guanghuizhang0328.github.io/)
 
 Education
 ======
-* **University of Jyväskylä, Faculty of Information Technology**<br>PhD candidate in Faculty of Information Technology (2019.03 ~ 2021.08)<br>Supervisors: [Timo Tiihonen](http://users.jyu.fi/~tiihonen/) and [Fengyu Cong](http://faculty.dlut.edu.cn/2013011247/en/index/672773/list/index.htm)
+* **University of Jyväskylä, Faculty of Information Technology**<br>Doctor of Philosophy. Faculty of Information Technology (2019.03 ~ 2021.08)<br>Supervisors: [Timo Tiihonen](http://users.jyu.fi/~tiihonen/) and [Fengyu Cong](http://faculty.dlut.edu.cn/2013011247/en/index/672773/list/index.htm)
 * **Dalian University of Technology, School of Biomedical Engineering**<br>M.E. in Biomedical Engineering (2015.08~2018.07)<br>Supervisor: [Fengyu Cong](http://www.escience.cn/people/cong/index.html)
 * **Dalian Polytechnic University, School of Information Science and Engineering**<br>B.E. in Communication Engineering (2011~2015)
 
@@ -25,4 +25,4 @@ Education
 CV
 ======
 
-[PDF](../_publications/CV_Guanghui Zhang.pdf).
+[PDF](../_publications/CV_Guanghui ZhangCV_Guanghui_Zhang.pdf).
