@@ -20,5 +20,7 @@ Research Interests
  3. Time-frequency analysis
  4. Blind Source Separation (ICA/PCA)
  5. Event-related oscillations
+ 6. Decoding analysis
+ 7. Representational similarity analysis
 
 
