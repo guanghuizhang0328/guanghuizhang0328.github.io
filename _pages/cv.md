@@ -21,10 +21,6 @@ Education
 * **Dalian University of Technology, School of Biomedical Engineering**<br>M.E. in Biomedical Engineering (2015~2018)<br>Supervisor: [Fengyu Cong](http://www.escience.cn/people/cong/index.html)
 * **Dalian Polytechnic University, School of Information Science and Engineering**<br>B.E. in Communication Engineering (2011~2015)
 
-Funding
-======
-
-* China Government Scholarship, from China Scholarship Council, 2019.03∼2023.03, 1350 €/month
 
 CV
 ======
