@@ -25,4 +25,4 @@ Education
 CV
 ======
 
-[PDF](../_publications/CV_Guanghui ZhangCV_Guanghui_Zhang.pdf).
+[PDF](../_publications/CV_Guanghui_Zhang.pdf).
