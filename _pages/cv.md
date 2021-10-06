@@ -12,7 +12,7 @@ Personal Information
 ------
 - Mattilanniemi 2, 40100 Jyväskylä, Finalnd. [Find me in google](https://goo.gl/maps/rXFqdB3Jm7L1rycSA)
 - Phone: +358 466207995
-- Email: zhang.guanghui@foxmail.com or guanghui.g.zhang@student.jyu.fi
+- Email: zhang.guanghui@foxmail.com or ghzhang@ucdavis.edu
 - Homepage:  [https://guanghuizhang0328.github.io/](https://guanghuizhang0328.github.io/)
 
 Education
