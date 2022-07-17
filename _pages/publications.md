@@ -55,6 +55,12 @@ author_profile: true
 
 * Yingying Wang, Qingchun Ji, Rao Fu, **Guanghui Zhang**, Yingzhi Lu,  and Chenglin Zhou(2021). Hand‐related action words impair action anticipation in expert table tennis players: Behavioral and neural evidence. Psychophysiology, e13942.  DOI:[10.1111/psyp.13942](https://doi.org/10.1111/psyp.13942)
 
+* Xiaoshuang Wang, **Guanghui Zhang**, Ying Wang, Lin Yang, Zhanhua Liang, and Fengyu Cong. (2022). One-Dimensional Convolutional Neural Networks Combined with Channel Selection Strategy for Seizure Prediction Using Long-Term Intracranial EEG. International Journal of Neural Systems, 32(02), 2150048.  DOI:[10.1142/S0129065721500489](https://doi.org/10.1142/S0129065721500489)
+
+* XueyanLi, JiayiSun, HuiliWang, QianruXu, **GuanghuiZhang**, and XiaoshuangWang. (2022). Dynamic impact of intelligence on verbal-humor processing: Evidence from ERPs and EROs. Journal of Neurolinguistics, 62, 101057.  DOI:[10.1016/j.jneuroling.2022.101057](https://doi.org/10.1016/j.jneuroling.2022.101057)
+
+* Xiawen Li, Yu Zhou, **Guanghui Zhang**, Yingzhi Lu, Chenglin Zhou, and Hongbiao Wang. (2022). Behavioral and Brain Reactivity Associated With Drug-Related and Non-Drug-Related Emotional Stimuli in Methamphetamine Addicts. Frontiers in Human Neuroscience, 16. DOI:[10.3389/fnhum.2022.894911](https://doi.org/10.3389/fnhum.2022.894911)
+
 
 4.Dissertation
 ------
