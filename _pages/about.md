@@ -21,5 +21,5 @@ Research Interests
  5. Event-related oscillations
  6. Decoding analysis
  7. Representational similarity analysis
-
+8. ERPLAB development
 
