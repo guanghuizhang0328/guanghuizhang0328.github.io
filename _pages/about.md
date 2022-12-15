@@ -25,4 +25,4 @@ Research Interests
 
 News
 ======
-- 2022 Dec 12: Our paper "Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject" was accepted by Journal of Neuroscience Methods.
+- 2022 Dec 12: Our paper "Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject" was accepted by [Journal of Neuroscience Methods](http://braindomain.cn/](https://doi.org/10.1016/j.jneumeth.2022.109768).
