@@ -25,6 +25,6 @@ Research Interests
 
 News
 ======
-- 2023 Jan 16: Our paper Named "Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures" was accepted by [Psychophysiology](https://doi.org/10.1111/psyp.14264).
-- 2022 Dec 12: Our paper Named "Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject" was accepted by [Journal of Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2022.109768).
+- 2023 Jan 16: Our paper Named "Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures" was accepted by [Psychophysiology](https://doi.org/10.1111/psyp.14264). (SCI IF:4.348) [PDF](../_publications/Zhang&Luck-2023_SME core-Psychophysiology.pdf) [code](https://osf.io/p3bqd/)
+- 2022 Dec 12: Our paper Named "Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject" was accepted by [Journal of Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2022.109768). (SCI IF:2.987)
 
