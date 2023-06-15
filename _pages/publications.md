@@ -37,9 +37,9 @@ author_profile: true
 
 3.Journal  and conference papers
 ------
-* **Guanghui Zhang**, David R. Garrett, & Stven J. Luck. (2023). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. bioRxiv, 2023-06.DOI:[10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
+* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. bioRxiv, 2023-06. DOI:[10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
   
-* **Guanghui Zhang**, David R. Garrett, & Stven J. Luck. (2023). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. bioRxiv, 2023-05.DOI:[10.1101/2023.05.25.542359](https://doi.org/10.1101/2023.05.25.542359).
+* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. bioRxiv, 2023-05. DOI:[10.1101/2023.05.25.542359](https://doi.org/10.1101/2023.05.25.542359).
   
 * **Guanghui Zhang** & Stven J. Luck (2023). Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures. Psychophysiology, DOI:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264).
 
