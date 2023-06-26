@@ -37,7 +37,9 @@ author_profile: true
 
 3.Journal  and conference papers
 ------
-* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. bioRxiv, 2023-06. DOI:[10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
+* Liting Song, **Guanghui Zhang\***, Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2023). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness. DOI:[10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).
+  
+* * **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. bioRxiv, 2023-06. DOI:[10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
   
 * **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. bioRxiv, 2023-05. DOI:[10.1101/2023.05.25.542359](https://doi.org/10.1101/2023.05.25.542359).
   
