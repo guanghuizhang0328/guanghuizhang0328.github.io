@@ -25,6 +25,8 @@ Research Interests
 
 News
 ======
+- 2023 Sep. 16: Our paper about Artifact correction and rejection in ERP research  has been preprinted on bioRxiv: "Evaluating the Effectiveness of a Common Approach to Artifact Correction and Rejection in Event-related Potential Research" [doi: 10.1101/2023.09.16.558075](https://doi.org/10.1101/2023.09.16.558075).
+  
 - 2023 June 16: Our paper about color perception  has been preprinted on bioRxiv: "Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness" [doi: 10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).
 - 2023 June 14: Our paper about optimal reccommendations of filter setting for the seven ERP components  has been preprinted on bioRxiv: "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components" [doi:10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
 - 2023 May 25: Our paper about the approach for selecting optimal filter for ERP research has been preprinted on bioRxiv: "Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings" [doi:10.1101/2023.05.25.542359](https://doi.org/10.1101/2023.05.25.542359).
