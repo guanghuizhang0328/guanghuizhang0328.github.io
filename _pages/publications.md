@@ -32,9 +32,6 @@ author_profile: true
 
 
 
-
-
-
 3.Journal  and conference papers
 ------
 * **Guanghui Zhang** & Stven J. Luck (2023). Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures. Psychophysiology, DOI:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264).
