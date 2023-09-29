@@ -37,6 +37,11 @@ author_profile: true
 
 3.Journal  and conference papers
 ------
+
+* Reza Mahini,**Guanghui Zhang**,Tiina Parviainen,Rainer Düsing,Asoke Nandi,Fengyu Cong & Timo Hämäläinen (2023).  Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Authorea. September 29, 2023. DOI:[10.22541/au.169600882.28722374/v1](10.22541/au.169600882.28722374/v1).
+
+* **Guanghui Zhang**, David R. Garrett, Aaron M. Simmons, John E. Kiat,  & Steven J. Luck (2023). Evaluating the Effectiveness of a Common Approach to Artifact Correction and Rejection in Event-related Potential Research. bioRxiv, 2023-09.DOI:[10.1101/2023.09.16.558075]( https://doi.org/10.1101/2023.09.16.558075).
+* 
 * Liting Song, **Guanghui Zhang\***, Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2023). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness. DOI:[10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).
   
 * **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. bioRxiv, 2023-06. DOI:[10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
