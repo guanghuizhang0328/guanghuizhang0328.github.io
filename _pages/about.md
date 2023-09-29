@@ -25,6 +25,8 @@ Research Interests
 
 News
 ======
+- 2023 Sep. 29: Our paper about single-trial cluster analysis of ERP has been preprinted: "Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis" doi: [10.22541/au.169600882.28722374/v1](10.22541/au.169600882.28722374/v1).
+  
 - 2023 Sep. 16: Our paper about Artifact correction and rejection in ERP research  has been preprinted on bioRxiv: "Evaluating the Effectiveness of a Common Approach to Artifact Correction and Rejection in Event-related Potential Research" [doi: 10.1101/2023.09.16.558075](https://doi.org/10.1101/2023.09.16.558075).
   
 - 2023 June 16: Our paper about color perception  has been preprinted on bioRxiv: "Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness" [doi: 10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).
