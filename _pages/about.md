@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 - PostDoc Fellow (2021.9-Present) in [Center for Mind and Brain](https://mindbrain.ucdavis.edu/), [University of California Davis](https://www.ucdavis.edu/) with Prof. [Steven Luck](https://mindbrain.ucdavis.edu/people/sjluck).
-- I got doctoral degree (2018.11-2021.8) in [Faculty of Information Technology](https://www.jyu.fi/it/en), [University of Jyväskylä](https://jyu.fi/en),  worked with Prof. [Timo Tiihonen](http://users.jyu.fi/~tiihonen/) and Prof. [Fengyu Cong](http://www.escience.cn/people/cong/index.html). I am a member of [SPWC lab](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
+- I got doctoral degree (2019.3-2021.8) in [Faculty of Information Technology](https://www.jyu.fi/it/en), [University of Jyväskylä](https://jyu.fi/en),  worked with Prof. [Timo Tiihonen](http://users.jyu.fi/~tiihonen/) and Prof. [Fengyu Cong](http://www.escience.cn/people/cong/index.html). I am a member of [SPWC lab](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
 - I received my master's degree （2015.09-2018.06）from [Dalian University of Technology](http://en.dlut.edu.cn/) with Prof. [Fengyu Cong](http://www.escience.cn/people/cong/index.html) as my supervisor. I obtained my bachelor's degree （2011.09-2015.06） from [Dalian Polytechnic University](http://en.dlpu.edu.cn/).
 - I am one of the founders of [Brain domain](http://braindomain.cn/).
 
@@ -25,7 +25,7 @@ Research Interests
 
 News
 ======
-- 2023 Sep. 29: Our paper about single-trial cluster analysis of ERP has been preprinted: "Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis" doi: [10.22541/au.169600882.28722374/v1](10.22541/au.169600882.28722374/v1).
+- 2023 Sep. 29: Our paper about single-trial cluster analysis of ERP has been preprinted: "Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis" doi: [10.21203/rs.3.rs-3586574/v1](10.21203/rs.3.rs-3586574/v1).
   
 - 2023 Sep. 16: Our paper about Artifact correction and rejection in ERP research  has been preprinted on bioRxiv: "Evaluating the Effectiveness of a Common Approach to Artifact Correction and Rejection in Event-related Potential Research" [doi: 10.1101/2023.09.16.558075](https://doi.org/10.1101/2023.09.16.558075).
   
