@@ -28,7 +28,7 @@ News
 
 - 2023 Dec. 14: Our paper named "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" was accepted by Psychophysiology.
 
-- 2023 Sep. 29: Our paper about single-trial cluster analysis of ERP has been preprinted: "Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis" doi: [10.21203/rs.3.rs-3586574/v1](https://www.authorea.com/doi/full/10.22541/au.169600882.28722374/v1).
+- 2023 Sep. 29: Our paper about single-trial cluster analysis of ERP has been preprinted: "Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis" doi: [rs-3586574/v1](https://www.researchsquare.com/article/rs-3586574/v1).
   
 - 2023 Sep. 16: Our paper about Artifact correction and rejection in ERP research  has been preprinted on bioRxiv: "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" [doi: 10.1101/2023.09.16.558075](https://doi.org/10.1101/2023.09.16.558075).
   
