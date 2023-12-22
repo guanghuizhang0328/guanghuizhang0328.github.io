@@ -34,8 +34,8 @@ author_profile: true
 
 3.Journal  and conference papers
 ------
-* **Guanghui Zhang**, David R. Garrett, Aaron M. Simmons, John E. Kiat,  & Steven J. Luck (2023). Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research. bioRxiv, 2023-09.DOI:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511).
-* 
+* **Guanghui Zhang**, David R. Garrett, Aaron M. Simmons, John E. Kiat,  & Steven J. Luck (2024). Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research. Psychophysiology. DOI:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511).
+  
 * **Guanghui Zhang** & Stven J. Luck (2023). Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures. Psychophysiology, DOI:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264).
 
 * **Guanghui Zhang**, Xueyan Li, Yingzhi Lu, Timo Tiihonen, Zheng Chang, and Fengyu Cong (2022). Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject.  Journal of Neuroscience Methods, 109768. DOI:[10.1016/j.jneumeth.2022.109768](https://doi.org/10.1016/j.jneumeth.2022.109768).
