@@ -26,7 +26,7 @@ Research Interests
 News
 ======
 
-- 2023 Dec. 14: Our paper named "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" was accepted by Psychophysiology. DOI:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511).[PDF](../_publications/Zhang_et_al-2024-artifact_Psychophysiology.pdf) [code](https://osf.io/vpb79/)
+- 2023 Dec. 14: Our paper named "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" was accepted by Psychophysiology. DOI:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511). [PDF](../_publications/Zhang_et_al-2024-artifact_Psychophysiology.pdf) [code](https://osf.io/vpb79/)
 
 - 2023 Sep. 29: Our paper about single-trial cluster analysis of ERP has been preprinted: "Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis" doi: [rs-3586574/v1](https://www.researchsquare.com/article/rs-3586574/v1).
   
