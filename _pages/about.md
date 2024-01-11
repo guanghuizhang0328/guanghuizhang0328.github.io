@@ -25,7 +25,10 @@ Research Interests
 
 News
 ======
-- 2024 Jan. 09: Our paper named "Optimal filters for ERP research I: A general approach for selecting filter settings" was accepted by Psychophysiology.
+
+- 2024 Jan. 11: Our paper named "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components" was out on  Psychophysiology.
+  
+- 2024 Jan. 11: Our paper named "Optimal filters for ERP research I: A general approach for selecting filter settings" was accepted by Psychophysiology.
   
 - 2023 Dec. 14: Our paper named "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" was accepted by Psychophysiology. DOI:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511). [PDF](../_publications/Zhang_et_al-2024-artifact_Psychophysiology.pdf) [code](https://osf.io/vpb79/)
 
