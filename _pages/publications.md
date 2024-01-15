@@ -34,6 +34,10 @@ author_profile: true
 
 3.Journal  and conference papers
 ------
+* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. Psychophysiology. DOI:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530).
+  
+* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. Psychophysiology. DOI:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531).
+
 * **Guanghui Zhang**, David R. Garrett, Aaron M. Simmons, John E. Kiat,  & Steven J. Luck (2024). Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research. Psychophysiology. DOI:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511).
   
 * **Guanghui Zhang** & Stven J. Luck (2023). Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures. Psychophysiology, DOI:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264).
@@ -71,11 +75,6 @@ author_profile: true
 
 4.Preprint
 ------
-  
-* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. bioRxiv, 2023-06. DOI:[10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
-  
-* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. bioRxiv, 2023-05. DOI:[10.1101/2023.05.25.542359](https://doi.org/10.1101/2023.05.25.542359).
-
 * Reza Mahini,**Guanghui Zhang**,Tiina Parviainen,Rainer Düsing,Asoke Nandi,Fengyu Cong & Timo Hämäläinen (2023).  Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Authorea. September 29, 2023. DOI:[10.22541/au.169600882.28722374/v1](10.22541/au.169600882.28722374/v1).
 
 * Liting Song, **Guanghui Zhang\***, Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2023). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness. DOI:[10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).  
