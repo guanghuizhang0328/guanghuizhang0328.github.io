@@ -34,9 +34,9 @@ author_profile: true
 
 3.Journal  and conference papers
 ------
-* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. Psychophysiology. DOI:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530).
+* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2024). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. Psychophysiology. DOI:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530).
   
-* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2023). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. Psychophysiology. DOI:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531).
+* **Guanghui Zhang**, David R. Garrett & Stven J. Luck. (2024). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. Psychophysiology. DOI:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531).
 
 * **Guanghui Zhang**, David R. Garrett, Aaron M. Simmons, John E. Kiat,  & Steven J. Luck (2024). Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research. Psychophysiology. DOI:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511).
   
