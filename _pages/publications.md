@@ -50,6 +50,8 @@ author_profile: true
 * **Guanghui Zhang**, Xueyan Li, and Fengyu Cong (2020) Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354)
   
 * **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, and Fengyu Cong (2018). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. DOI: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63).
+  
+*  Liting Song, **Guanghui Zhang\*** (corresponding author), Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2024). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness.Biological Psychology.  DOI:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787).  
 
 * Xue Xia, **Guanghui Zhang**, and Xiaochun Wang. Anger weakens behavioral inhibition selectively in contact athletes. Frontiers in Human Neuroscience 12 (2018): 463. DOI: [10.3389/fnhum.2018.00463](https://doi.org/10.3389/fnhum.2018.00463).
 
@@ -76,8 +78,7 @@ author_profile: true
 4.Preprint
 ------
 * Reza Mahini,**Guanghui Zhang**,Tiina Parviainen,Rainer Düsing,Asoke Nandi,Fengyu Cong & Timo Hämäläinen (2023).  Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Authorea. September 29, 2023. DOI:[10.22541/au.169600882.28722374/v1](10.22541/au.169600882.28722374/v1).
-
-* Liting Song, **Guanghui Zhang\***, Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2023). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness. DOI:[10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).  
+* 
 
 5.Dissertation
 ------
