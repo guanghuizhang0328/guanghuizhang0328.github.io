@@ -28,7 +28,7 @@ News
 
 - 2024 Mar. 27: Congratulations! "Does Artistic Training Affect Color Perception? A Study of ERPs and EROs in Experiencing Colors of Different Brightness" was accepted by Biological Psychology. doi:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787). (SCI IF:2.6)
   
-- 2024 Jan. 11: Our paper named "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components" was out on  Psychophysiology. doi:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530). [PDF](../_publications/Zhang_et_al_2024_filter_recommendations_Psychophysiology.pdf) (SCI IF:3.7)
+- 2024 Jan. 11: Our paper named "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components"  out in  Psychophysiology. doi:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530). [PDF](../_publications/Zhang_et_al_2024_filter_recommendations_Psychophysiology.pdf) (SCI IF:3.7)
   
 - 2024 Jan. 11: Our paper named "Optimal filters for ERP research I: A general approach for selecting filter settings" was accepted by Psychophysiology. doi:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531). [PDF](../_publications/Zhang_et_al_2024_filter_approach_Psychophysiology.pdf) (SCI IF:3.7)
   
@@ -36,9 +36,9 @@ News
 
 - 2023 Sep. 29: Our paper about single-trial cluster analysis of ERP has been preprinted: "Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis" doi: [rs-3586574/v1](https://www.researchsquare.com/article/rs-3586574/v1).
   
-- 2023 Sep. 16: Our paper about Artifact correction and rejection in ERP research  has been preprinted on bioRxiv: "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" [doi: 10.1101/2023.09.16.558075](https://doi.org/10.1101/2023.09.16.558075).
+- 2023 Sep. 16: Our paper about Artifact correction and rejection in ERP research  has been preprinted in bioRxiv: "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" [doi: 10.1101/2023.09.16.558075](https://doi.org/10.1101/2023.09.16.558075).
   
-- 2023 June 16: Our paper about color perception  has been preprinted on bioRxiv: "Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness" [doi: 10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).
+- 2023 June 16: Our paper about color perception  has been preprinted in bioRxiv: "Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness" [doi: 10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).
 - 2023 June 14: Our paper about optimal reccommendations of filter setting for the seven ERP components  has been preprinted on bioRxiv: "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components" doi:[10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
 - 2023 May 25: Our paper about the approach for selecting optimal filter for ERP research has been preprinted on bioRxiv: "Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings" doi:[10.1101/2023.05.25.542359](https://doi.org/10.1101/2023.05.25.542359).
 - 2023 Jan 16: Our paper Named "Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures" was accepted by Psychophysiology. doi:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264). [PDF](../_publications/Zhang&Luck-2023_SME core-Psychophysiology.pdf) [code](https://osf.io/p3bqd/). (SCI IF:3.7)
