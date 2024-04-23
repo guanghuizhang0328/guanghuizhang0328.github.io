@@ -26,6 +26,8 @@ Research Interests
 News
 ======
 
+- 2024 Apr. 12: Excited to announce that our paper "Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data" out in NeuroImage.  (SCI IF:5.7).
+  
 - 2024 Mar. 27: Congratulations! "Does Artistic Training Affect Color Perception? A Study of ERPs and EROs in Experiencing Colors of Different Brightness" was accepted by Biological Psychology. doi:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787). (SCI IF:2.6)
   
 - 2024 Jan. 11: Our paper named "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components"  out in  Psychophysiology. doi:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530). [PDF](../_publications/Zhang_et_al_2024_filter_recommendations_Psychophysiology.pdf) (SCI IF:3.7)
