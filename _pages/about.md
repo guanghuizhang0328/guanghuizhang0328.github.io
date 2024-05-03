@@ -26,7 +26,7 @@ Research Interests
 News
 ======
 
-- 2024 Apr. 23: Excited to announce that our paper "Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data" was accepted by NeuroImage. [code](https://osf.io/tgzew/) (SCI IF:5.7).
+- 2024 Apr. 23: Excited to announce that our paper "Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data" was accepted by NeuroImage. doi:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625) [code](https://osf.io/tgzew/) (SCI IF:5.7).
   
 - 2024 Mar. 27: Congratulations! "Does Artistic Training Affect Color Perception? A Study of ERPs and EROs in Experiencing Colors of Different Brightness" was accepted by Biological Psychology. doi:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787). (SCI IF:2.6)
   
