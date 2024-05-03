@@ -34,7 +34,7 @@ author_profile: true
 
 3.Journal  and conference papers
 ------
-* **Guanghui Zhang**, Carlos D. Carrasco, Kurt Winsler, Brett Bahle, Fengyu Cong, and Steven J. Luck. (2024).  Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data. Accepted by Neuroimage.
+* **Guanghui Zhang**, Carlos D. Carrasco, Kurt Winsler, Brett Bahle, Fengyu Cong, and Steven J. Luck. (2024).  Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data. Neuroimage. DOI:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625)
 
 * **Guanghui Zhang**, David R. Garrett & Steven J. Luck. (2024). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. Psychophysiology. DOI:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530).
   
