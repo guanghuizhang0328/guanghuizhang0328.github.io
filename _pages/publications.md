@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. EEG dataset  and Matlab script code for ['Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject'](https://doi.org/10.1016/j.jneumeth.2022.109768)
+1 EEG dataset  and Matlab script code for ['Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject'](https://doi.org/10.1016/j.jneumeth.2022.109768)
 ------   
 
 * **EEG dataset**: (a) Experimental paradigm - Within-subject design with two-factor: Valence (extreme, moderate, and neutral) x Negative-category (disgusting and fearful) and the details can be found in [(Lu et al., 2016)](https://doi.org/10.1080/17470919.2015.1120238). (b) Preprocessed EEG datasets for different participants - [Sub#1](../_publications/Zhang_et_al_2022_Sub1.rar); [Sub#2](../_publications/Zhang_et_al_2022_Sub2.rar); [Sub#3](../_publications/Zhang_et_al_2022_Sub3.rar);  [Sub#4](../_publications/Zhang_et_al_2022_Sub4.rar); [Sub#7](../_publications/Zhang_et_al_2022_Sub5.rar); [Sub#8](../_publications/Zhang_et_al_2022_Sub6.rar); [Sub#9](../_publications/Zhang_et_al_2022_Sub7.rar); [Sub#10](../_publications/Zhang_et_al_2022_Sub8.rar); [Sub#13](../_publications/Zhang_et_al_2022_Sub9.rar); [Sub#14](../_publications/Zhang_et_al_2022_Sub10.rar); [Sub#15](../_publications/Zhang_et_al_2022_Sub11.rar); [Sub#16](../_publications/Zhang_et_al_2022_Sub12.rar); 
@@ -17,7 +17,7 @@ author_profile: true
 * **Citation:**  **(a) Guanghui Zhang**, Xueyan Li, Yingzhi Lu, Timo Tiihonen, Zheng Chang, and Fengyu Cong. (2022). Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject.Journal of Neuroscience Method. DOI:[10.1016/j.jneumeth.2022.109768](https://doi.org/10.1016/j.jneumeth.2022.109768). **(b) Yingzhi Lu**,Yu Luo,Yi Lei,Kyle J. Jaquess,Chenglin Zhou   and Hong Li. (2016). Decomposing valence intensity effects in disgusting and fearful stimuli: an event-related potential study. Social neuroscience, 11(6), 618-626. DOI:[10.1080/17470919.2015.1120238](https://doi.org/10.1080/17470919.2015.1120238). **(c) Guanghui Zhang**, Xueyan Li, and Fengyu Cong (2020). Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354). 
 
 
-2. Other Matlab script codes
+2 Other Matlab script codes
 ------   
 * **Toolbox:** **Evoked ERP_ERO_v1.1**. **(a)** Author:Guanghui Zhang, and Fengyu Cong. **(b)** Introduction: This toolbox provides some advanced signal processing and analysis methods based on temporal principal component analysis (t-PCA)/morlet continuous wavelet transform to rapidly and objectively extract the event-related potential (ERP)/event-related oscillation (ERO) of interest from the averaged ERP dataset at group-level([Download toolbox: Evoked ERP ERO_V1.1](../_publications/Evoked ERP ERO_v1.1.zip) /[Download demo datasets](../_publications/Evoked ERP ERO_v1.1 Demo data.zip) / [Download codes for forming a fourth-order tensor](../_publications/Evoked ERP ERO_v1.1_Forming_fourth_order_tensor_demo data.zip)). Please add EEGLAB, for example, [eeglab14_1_2b](../_publications/eeglab14_1_2b.zip), into Matlab path before use this toolbox to process ERP signals. **(c)** Signal type for processing: The averaged signal, a fourth-order tensor, is collected from the within-subject (one-factor, two-factor, three-factor) or between-subject (two-factor, three-factor) experiment designs.  **(d)** Function: Using t-PCA and Promax rotation/continuous wavelet transform to extract the ERPs/EROs of interest from the original input/the filtered signal (FFT filter or wavelet filter), and exporting the data at the specific electrodes with the time-window of interest as an excel file, which can be imported to SPSS. **(e)** Cite this toolbox:  **Guanghui Zhang**, Xueyan Li, and Fengyu Cong. Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354).
 
@@ -32,7 +32,7 @@ author_profile: true
 
 
 
-3. Journal  papers 
+3 Journal  papers 
 ------
 * **Guanghui Zhang**, Carlos D. Carrasco, Kurt Winsler, Brett Bahle, Fengyu Cong, and Steven J. Luck. (2024).  Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data. Neuroimage. DOI:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625)
 
@@ -74,15 +74,15 @@ author_profile: true
 
 * Xiawen Li, Yu Zhou, **Guanghui Zhang**, Yingzhi Lu, Chenglin Zhou, and Hongbiao Wang. (2022). Behavioral and Brain Reactivity Associated With Drug-Related and Non-Drug-Related Emotional Stimuli in Methamphetamine Addicts. Frontiers in Human Neuroscience, 16. DOI:[10.3389/fnhum.2022.894911](https://doi.org/10.3389/fnhum.2022.894911).
 
-4. Conference papers
+4 Conference papers
 ------
 * **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, and Fengyu Cong (2018). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. DOI: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63).
 
-5. Preprint
+5 Preprint
 ------
 * Reza Mahini,**Guanghui Zhang**,Tiina Parviainen,Rainer Düsing,Asoke Nandi,Fengyu Cong & Timo Hämäläinen (2023).  Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Authorea. September 29, 2023. DOI:[10.22541/au.169600882.28722374/v1](10.22541/au.169600882.28722374/v1).
 
-6. Dissertation
+6 Dissertation
 ------
 * **Guanghui Zhang**, Methods to extract multi-dimensional features of event-related brain activities from EEG data, University of Jyväskylä, Finland. August 12 2021 [(Download dissertation)](https://jyx.jyu.fi/handle/123456789/76955#).
 
