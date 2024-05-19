@@ -25,10 +25,10 @@ Research Interests
 
 Peer Review
 ======
-1. Nature Communications
-2. Psychophysiology
-3. Behavior Research Methods
-4. Cortex
+1. 《Nature Communications》
+2. 《Psychophysiology》
+3. 《Behavior Research Methods》
+4. 《Cortex》
 
 News
 ======
