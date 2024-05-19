@@ -23,6 +23,13 @@ Research Interests
  7. Representational similarity analysis
 8. ERPLAB development
 
+Peer Review
+======
+1. Nature Communications
+2. Psychophysiology
+3. Behavior Research Methods
+4. Cortex
+
 News
 ======
 
