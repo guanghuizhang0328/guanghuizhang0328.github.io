@@ -14,7 +14,7 @@ redirect_from:
 
 Research Interests
 ======
- 1. Signal processing: Tensor decomposition,Time-frequency analysis,Blind Source Separation (ICA/PCA),Decoding analysis, Representational similarity analysis
+ 1. Signal processing
  2. EEG/ERP-baed cognitive neuroscience
  3. Toolbox development:  ERPLAB development
 
