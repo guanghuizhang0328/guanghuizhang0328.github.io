@@ -14,7 +14,7 @@ redirect_from:
 
 Research Interests
 ======
- 1. Signal processing
+ 1. Brain signal processing; NueroImage processing
  2. EEG/ERP-baed cognitive neuroscience
  3. Toolbox development:  ERPLAB development
 
