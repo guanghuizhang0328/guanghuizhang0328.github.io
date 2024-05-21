@@ -14,14 +14,9 @@ redirect_from:
 
 Research Interests
 ======
- 1. EEG/ERP/MEG
- 2. Tensor decomposition
- 3. Time-frequency analysis
- 4. Blind Source Separation (ICA/PCA)
- 5. Event-related oscillations
- 6. Decoding analysis
- 7. Representational similarity analysis
-8. ERPLAB development
+ 1. Signal processing: Tensor decomposition,Time-frequency analysis,Blind Source Separation (ICA/PCA),Decoding analysis, Representational similarity analysis
+ 2. EEG/ERP-baed cognitive neuroscience
+ 3. Toolbox development:  ERPLAB development
 
 Peer Review
 ======
