@@ -16,7 +16,7 @@ Research Interests
 ======
  1. Brain signal processing; NueroImage
  2. EEG/ERP-based cognitive neuroscience
- 3. Toolbox development:  ERPLAB development
+ 3. Toolbox development:  ERPLAB Studio
 
 Peer Review
 ======
