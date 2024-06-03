@@ -4,7 +4,7 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  -  /about/
   - /about.html
 ---
 - PostDoc Fellow (2021.9-Present) in [Center for Mind and Brain](https://mindbrain.ucdavis.edu/), [University of California Davis](https://www.ucdavis.edu/) with Prof. [Steven Luck](https://mindbrain.ucdavis.edu/people/sjluck).
