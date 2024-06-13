@@ -18,7 +18,7 @@ Research Interests
  2. EEG/ERP-based cognitive neuroscience
  3. Toolbox development:  ERPLAB Studio
 
-Peer Reviewer
+Peer Review
 ======
 1. 《Nature Communications》
 2. 《Psychophysiology》
