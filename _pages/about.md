@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-- 2019.3-2021.8: Doctor,Mathematical Information Technology, [Faculty of Information Technology](https://www.jyu.fi/it/en), [University of Jyväskylä](https://jyu.fi/en), Prof. [Timo Tiihonen](http://users.jyu.fi/~tiihonen/) and Prof. [Fengyu Cong （丛丰裕）](http://faculty.dlut.edu.cn/congfengyu/zh_CN/index.htm)
+- 2019.03-2021.08: Doctor,Mathematical Information Technology, [Faculty of Information Technology](https://www.jyu.fi/it/en), [University of Jyväskylä](https://jyu.fi/en), Prof. [Timo Tiihonen](http://users.jyu.fi/~tiihonen/) and Prof. [Fengyu Cong （丛丰裕）](http://faculty.dlut.edu.cn/congfengyu/zh_CN/index.htm)
 - 2015.09-2018.06: Master, Biomedical Engineering, [Dalian University of Technology](http://en.dlut.edu.cn/), Prof. [Fengyu Cong （丛丰裕）](http://faculty.dlut.edu.cn/congfengyu/zh_CN/index.htm) 
 - 2011.09-2015.06: Bachelor, Communication Engineering, [Dalian Polytechnic University](http://en.dlpu.edu.cn/)
   
