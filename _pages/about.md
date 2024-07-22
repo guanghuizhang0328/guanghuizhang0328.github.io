@@ -31,13 +31,14 @@ Peer Review
 News
 ======
 
+- 2024 Jul. 22: The paper entitled "Brain Evoked Response Qualification Using Multi-Set Consensus Clustering: Toward Single-Trial EEG Analysis" was accepted by Brain topography.
 - 2024 Apr. 23: Excited to announce that our paper "Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data" was accepted by NeuroImage. doi:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625) [code](https://osf.io/tgzew/) (SCI JCR1 IF:5.7).
   
 - 2024 Mar. 27: Congratulations! "Does Artistic Training Affect Color Perception? A Study of ERPs and EROs in Experiencing Colors of Different Brightness" was accepted by Biological Psychology. doi:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787). (SCI JCR2 IF:2.6)
   
 - 2024 Jan. 11: Our paper named "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components"  out in  Psychophysiology. doi:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530). [PDF](../_publications/Zhang_et_al_2024_filter_recommendations_Psychophysiology.pdf) [code](https://osf.io/z3hfp/) (SCI JCR2 IF:3.7)
   
-- 2024 Jan. 11: Our paper named "Optimal filters for ERP research I: A general approach for selecting filter settings" was accepted by Psychophysiology. doi:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531). [PDF](../_publications/Zhang_et_al_2024_filter_approach_Psychophysiology.pdf) (SCI JCR2 IF:3.7)
+- 2024 Jan. 11: Our paper entitled "Optimal filters for ERP research I: A general approach for selecting filter settings" was accepted by Psychophysiology. doi:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531). [PDF](../_publications/Zhang_et_al_2024_filter_approach_Psychophysiology.pdf) (SCI JCR2 IF:3.7)
   
 - 2023 Dec. 14: Our paper named "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" was accepted by Psychophysiology. doi:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511). [PDF](../_publications/Zhang_et_al-2024-artifact_Psychophysiology.pdf) [code](https://osf.io/vpb79/)  (SCI JCR2 IF:3.7)
 
@@ -48,6 +49,6 @@ News
 - 2023 June 16: Our paper about color perception  has been preprinted in bioRxiv: "Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness" [doi: 10.21203/rs.3.rs-3060012/v1](https://doi.org/10.21203/rs.3.rs-3060012/v1).
 - 2023 June 14: Our paper about optimal reccommendations of filter setting for the seven ERP components  has been preprinted on bioRxiv: "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components" doi:[10.1101/2023.06.13.544794](https://doi.org/10.1101/2023.06.13.544794).
 - 2023 May 25: Our paper about the approach for selecting optimal filter for ERP research has been preprinted on bioRxiv: "Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings" doi:[10.1101/2023.05.25.542359](https://doi.org/10.1101/2023.05.25.542359).
-- 2023 Jan 16: Our paper Named "Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures" was accepted by Psychophysiology. doi:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264). [PDF](../_publications/Zhang&Luck-2023_SME core-Psychophysiology.pdf) [code](https://osf.io/p3bqd/). (SCI JCR2 IF:3.7)
-- 2022 Dec 12: Our paper Named "Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject" was accepted by Journal of Neuroscience Methods. doi:[10.1016/j.jneumeth.2022.109768](https://doi.org/10.1016/j.jneumeth.2022.109768). (SCI JCR3 IF:3.00)
+- 2023 Jan 16: Our paper entitled "Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures" was accepted by Psychophysiology. doi:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264). [PDF](../_publications/Zhang&Luck-2023_SME core-Psychophysiology.pdf) [code](https://osf.io/p3bqd/). (SCI JCR2 IF:3.7)
+- 2022 Dec 12: Our paper entitled "Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject" was accepted by Journal of Neuroscience Methods. doi:[10.1016/j.jneumeth.2022.109768](https://doi.org/10.1016/j.jneumeth.2022.109768). (SCI JCR3 IF:3.00)
 
