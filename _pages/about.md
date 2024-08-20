@@ -31,8 +31,8 @@ Peer Review
 News
 ======
 
-- 2024 Jul. 22: The paper entitled "Brain Evoked Response Qualification Using Multi-Set Consensus Clustering: Toward Single-Trial EEG Analysis" was accepted by Brain topography.
-  
+- 2024 Jul. 22: The paper entitled "Brain Evoked Response Qualification Using Multi-Set Consensus Clustering: Toward Single-Trial EEG Analysis" was accepted by Brain Topography. doi:[10.1007/s10548-024-01074-y](https://doi.org/10.1007/s10548-024-01074-y) (SCI JCR3 IF:2.3).
+
 - 2024 Apr. 23: Excited to announce that our paper "Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data" was accepted by NeuroImage. doi:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625) [code](https://osf.io/tgzew/) (SCI JCR1 IF:5.7).
   
 - 2024 Mar. 27: Congratulations! "Does Artistic Training Affect Color Perception? A Study of ERPs and EROs in Experiencing Colors of Different Brightness" was accepted by Biological Psychology. doi:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787). (SCI JCR2 IF:2.6)
