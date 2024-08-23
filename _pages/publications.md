@@ -82,7 +82,7 @@ author_profile: true
 
 5 Preprint
 ------
-* Reza Mahini,**Guanghui Zhang**,Tiina Parviainen,Rainer Düsing,Asoke Nandi,Fengyu Cong & Timo Hämäläinen (2023).  Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Authorea. September 29, 2023. DOI:[10.22541/au.169600882.28722374/v1](10.22541/au.169600882.28722374/v1).
+* Coming soon...
 
 6 Dissertation
 ------
