@@ -11,7 +11,6 @@ redirect_from:
 Personal Information
 ------
 - Center for Mind and Brain, University of California, Davis, United States
-- Phone: +86 18842604636
 - Email: zhang.guanghui@foxmail.com or ghzhang@ucdavis.edu
 - Homepage:  [https://guanghuizhang0328.github.io/](https://guanghuizhang0328.github.io/)
 
