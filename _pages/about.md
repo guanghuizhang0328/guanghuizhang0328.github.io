@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcone to Cognitive Signal Processing & Neuroscience Lab"
+title: "Welcome to Cognitive Signal Processing & Neuroscience Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
