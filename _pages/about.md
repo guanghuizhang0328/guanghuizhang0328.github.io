@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Work Experience"
+title: "Welcone to Cognitive Signal Processing & Neuroscience Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   -  /about/
   - /about.html
 ---
+
+Work Experience
+======
 - 2024.09-present: Lecturer, [Research Center of Brain and Cognitive Neuroscience](https://brain.lnnu.edu.cn/), Liaoning Normal University.
 - 2021.09-2024.08: PostDoc researcher,  [Center for Mind and Brain](https://mindbrain.ucdavis.edu/), [University of California Davis](https://www.ucdavis.edu/), Prof. [Steven Luck](https://mindbrain.ucdavis.edu/people/sjluck).
 
