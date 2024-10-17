@@ -82,7 +82,7 @@ author_profile: true
 
 5 Preprint
 ------
-*Liting Song, **Guanghui Zhang\***, Johanna Silvennoinen & Fengyu Cong. "The P2 component reveals the early perception of varied hues of colors differs between art majors and non-art major." (2024).
+* Liting Song, **Guanghui Zhang\***, Johanna Silvennoinen & Fengyu Cong. "The P2 component reveals the early perception of varied hues of colors differs between art majors and non-art major." (2024).
 
 6 Dissertation
 ------
