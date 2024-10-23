@@ -10,7 +10,7 @@ redirect_from:
 
 Work Experience
 ======
-- 2024.09-present: Lecturer, [Research Center of Brain and Cognitive Neuroscience](https://brain.lnnu.edu.cn/), Liaoning Normal University ([Personal information](https://brain.lnnu.edu.cn/info/1018/1457.htm)).
+- 2024.09-present: Lecturer, [Research Center of Brain and Cognitive Neuroscience](https://brain.lnnu.edu.cn/), Liaoning Normal University ([Click here](https://brain.lnnu.edu.cn/info/1018/1457.htm)).
 - 2021.09-2024.08: PostDoc researcher,  [Center for Mind and Brain](https://mindbrain.ucdavis.edu/), [University of California Davis](https://www.ucdavis.edu/), Prof. [Steven Luck](https://mindbrain.ucdavis.edu/people/sjluck).
 
 Education
