@@ -42,11 +42,11 @@ News
   
 - 2024 Mar. 27: Congratulations! "Does Artistic Training Affect Color Perception? A Study of ERPs and EROs in Experiencing Colors of Different Brightness" was accepted by Biological Psychology. doi:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787) (SCI JCR2 IF:2.6).
   
-- 2024 Jan. 11: Our paper entitled "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components"  out in  Psychophysiology. doi:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530). [PDF](../_publications/Zhang_et_al_2024_filter_recommendations_Psychophysiology.pdf) [code](https://osf.io/z3hfp/) (SCI JCR2 IF:3.7).
+- 2024 Jan. 11: Our paper entitled "Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components"  out in  Psychophysiology. doi:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530). [PDF](../_publications/Zhang_et_al_2024_filter_recommendations_Psychophysiology.pdf) [code](https://osf.io/z3hfp/) (SCI JCR1 IF:3.7).
   
-- 2024 Jan. 11: Our paper entitled "Optimal filters for ERP research I: A general approach for selecting filter settings" was accepted by Psychophysiology. doi:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531). [PDF](../_publications/Zhang_et_al_2024_filter_approach_Psychophysiology.pdf) (SCI JCR2 IF:3.7).
+- 2024 Jan. 11: Our paper entitled "Optimal filters for ERP research I: A general approach for selecting filter settings" was accepted by Psychophysiology. doi:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531). [PDF](../_publications/Zhang_et_al_2024_filter_approach_Psychophysiology.pdf) (SCI JCR1 IF:3.7).
   
-- 2023 Dec. 14: Our paper entitled "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" was accepted by Psychophysiology. doi:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511). [PDF](../_publications/Zhang_et_al-2024-artifact_Psychophysiology.pdf) [code](https://osf.io/vpb79/)  (SCI JCR2 IF:3.7).
+- 2023 Dec. 14: Our paper entitled "Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research" was accepted by Psychophysiology. doi:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511). [PDF](../_publications/Zhang_et_al-2024-artifact_Psychophysiology.pdf) [code](https://osf.io/vpb79/)  (SCI JCR1 IF:3.7).
 
 - 2023 Sep. 29: Our paper about single-trial cluster analysis of ERP has been preprinted: "Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis" doi: [rs-3586574/v1](https://www.researchsquare.com/article/rs-3586574/v1).
   
