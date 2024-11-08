@@ -58,7 +58,7 @@ News
   
 - 2023 May 25: Our paper about the approach for selecting optimal filter for ERP research has been preprinted on bioRxiv: "Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings" doi:[10.1101/2023.05.25.542359](https://doi.org/10.1101/2023.05.25.542359).
   
-- 2023 Jan 16: Our paper entitled "Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures" was accepted by Psychophysiology. doi:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264). [PDF](../_publications/Zhang&Luck-2023_SME core-Psychophysiology.pdf) [code](https://osf.io/p3bqd/). (SCI JCR2 IF:3.7).
+- 2023 Jan 16: Our paper entitled "Variations in ERP Data Quality Across Paradigms, Participants, and Scoring Procedures" was accepted by Psychophysiology. doi:[10.1111/psyp.14264](https://doi.org/10.1111/psyp.14264). [PDF](../_publications/Zhang&Luck-2023_SME core-Psychophysiology.pdf) [code](https://osf.io/p3bqd/). (SCI JCR1 IF:3.7).
   
 - 2022 Dec 12: Our paper entitled "Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject" was accepted by Journal of Neuroscience Methods. doi:[10.1016/j.jneumeth.2022.109768](https://doi.org/10.1016/j.jneumeth.2022.109768). (SCI JCR3 IF:3.00).
 
