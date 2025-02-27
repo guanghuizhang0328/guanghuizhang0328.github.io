@@ -34,6 +34,8 @@ Peer Review
 
 News
 ======
+- 2025 Feb. 26: Our paper  has been preprinted in bioRxiv: "Assessing the impact of artifact correction and artifact rejection on the performance of SVM-based decoding of EEG signals" [doi: 10.1101/2025.02.22.639684](https://doi.org/10.1101/2025.02.22.639684).
+  
 - 2024 Oct. 25: Our lab now has an official WeChat account! Follow us by searching for "CSPN Lab" on WeChat.
   
 - 2024 Jul. 22: The paper entitled "Brain Evoked Response Qualification Using Multi-Set Consensus Clustering: Toward Single-Trial EEG Analysis" was accepted by Brain Topography. doi:[10.1007/s10548-024-01074-y](https://doi.org/10.1007/s10548-024-01074-y) (SCI JCR3 IF:2.3).
