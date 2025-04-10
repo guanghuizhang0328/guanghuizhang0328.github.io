@@ -30,7 +30,7 @@ author_profile: true
 
 * **Repeated  measurement analysis of variance (rm-ANOVA)**: Within-subject analysis includes [one factor](../_publications/Within-subject rm-ANOVA_one factor.zip), [two factors](../_publications/Within-subject rm-ANOVA_two factors.zip), and [three factors](../_publications/Within-subject rm-ANOVA_three factors.zip); Between-subject analysis contains [two factors](../_publications/Between-subject_twofactors.zip) and three factors (Not avaliable).
 
-* **Time frequency analysis**: Computing the time frequency representation for the signal of interest using Morlet Wavelet trasformation  [Demo](../_publications/Time_frequency_analysis_Matlab_Demo_code.tar).
+* **Time frequency analysis**: Computing time frequency representation for the signal of interest using Morlet Wavelet trasformation  [Demo](../_publications/Time_frequency_analysis_Matlab_Demo_code.rar).
 
 
 3 Journal  papers 
