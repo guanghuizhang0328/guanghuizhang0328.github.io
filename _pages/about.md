@@ -34,7 +34,7 @@ Peer Review
 
 News
 ======
-- 2025 Mar. 11: Congratulations! "Action Complexity Modulates Motor Performance in the Emotional Oddball Task" was accepted by Journal of Neurophysiology. 
+- 2025 Mar. 11: Congratulations! "Action Complexity Modulates Motor Performance in the Emotional Oddball Task" was accepted by Journal of Neurophysiology. [doi: 10.1152/jn.00480.2023](https://doi.org/10.1152/jn.00480.2023)
    
 - 2025 Feb. 26: Our paper  has been preprinted in bioRxiv: "Assessing the impact of artifact correction and artifact rejection on the performance of SVM-based decoding of EEG signals" [doi: 10.1101/2025.02.22.639684](https://doi.org/10.1101/2025.02.22.639684).
   
