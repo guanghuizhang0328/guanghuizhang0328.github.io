@@ -34,7 +34,7 @@ Peer Review
 
 News
 ======
-- 2025 Jun. 3: Congratulations! our paper entitled "Assessing the impact of artifact correction and artifact rejection on the performance of SVM-based decoding of EEG signals" was accepted by NeuroImage.[doi:10.1016/j.neuroimage.2025.121304](https://doi.org/10.1016/j.neuroimage.2025.121304)
+- 2025 Jun. 3: Congratulations! our paper entitled "Assessing the impact of artifact correction and artifact rejection on the performance of SVM-and LDA-based decoding of EEG signals" was accepted by NeuroImage.[doi:10.1016/j.neuroimage.2025.121304](https://doi.org/10.1016/j.neuroimage.2025.121304)
   
 - 2025 Mar. 11: Congratulations! "Action Complexity Modulates Motor Performance in the Emotional Oddball Task" was accepted by Journal of Neurophysiology. [doi: 10.1152/jn.00480.2023](https://doi.org/10.1152/jn.00480.2023)
    
