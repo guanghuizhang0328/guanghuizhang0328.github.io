@@ -35,13 +35,14 @@ Peer Review
 News
 ======
 
-- 2025 Jul. 7: Congratulations! Our paper entitled "Electroencephalographic (EEG) Analysis of Hue Perception Differences Between Art and Non-Art Majors: Insights from the P2 and P3 Components" was accepted by BMC Psychology.
+- 2025 Jul. 7: Congratulations! Our paper entitled "Electroencephalographic (EEG) Analysis of Hue Perception Differences Between Art and Non-Art Majors: Insights from the P2 and P3 Components" was accepted by BMC Psychology. (JCR1)
 
   
-- 2025 Jun. 16: Congratulations! Our paper entitled "Comparative Analysis of Color Emotional Perception in Art and Non-Art University Students:Hue, Saturation, and Brightness Effects in the Munsell Color System" was accepted by BMC Psychology. [doi:10.1186/s40359-025-03034-y](https://doi.org/10.1186/s40359-025-03034-y) 
+- 2025 Jun. 16: Congratulations! Our paper entitled "Comparative Analysis of Color Emotional Perception in Art and Non-Art University Students:Hue, Saturation, and Brightness Effects in the Munsell Color System" was accepted by BMC Psychology. [doi:10.1186/s40359-025-03034-y](https://doi.org/10.1186/s40359-025-03034-y) (JCR1)
 
 - 2025 Jun. 3: Congratulations! Our paper entitled "Assessing the impact of artifact correction and artifact rejection on the performance of SVM-and LDA-based decoding of EEG signals" was accepted by NeuroImage.[doi:10.1016/j.neuroimage.2025.121304](https://doi.org/10.1016/j.neuroimage.2025.121304)
-  
+(JCR1, Top)
+
 - 2025 Mar. 11: Congratulations! "Action Complexity Modulates Motor Performance in the Emotional Oddball Task" was accepted by Journal of Neurophysiology. [doi: 10.1152/jn.00480.2023](https://doi.org/10.1152/jn.00480.2023)
    
 - 2025 Feb. 26: Our paper  has been preprinted in bioRxiv: "Assessing the impact of artifact correction and artifact rejection on the performance of SVM-based decoding of EEG signals" [doi: 10.1101/2025.02.22.639684](https://doi.org/10.1101/2025.02.22.639684).
