@@ -35,7 +35,9 @@ author_profile: true
 
 3 Journal  papers 
 ------
-* **Guanghui Zhang**, Carlos D. Carrasco, Kurt Winsler, Brett Bahle, Fengyu Cong, and Steven J. Luck. (2024).  Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data. Neuroimage. DOI:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625)
+* **Guanghui Zhang** & Steven J. Luck. (2025).  Assessing the impact of artifact correction and artifact rejection on the performance of SVM and LDA-based decoding of EEG signals. Neuroimage. DOI:[10.1016/j.neuroimage.2025.121304](https://doi.org/10.1016/j.neuroimage.2025.121304)
+  
+*  **Guanghui Zhang**, Carlos D. Carrasco, Kurt Winsler, Brett Bahle, Fengyu Cong, and Steven J. Luck. (2024).  Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data. Neuroimage. DOI:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625)
 
 * **Guanghui Zhang**, David R. Garrett & Steven J. Luck. (2024). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. Psychophysiology. DOI:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530).
   
@@ -52,6 +54,9 @@ author_profile: true
 
 * **Guanghui Zhang**, Xueyan Li, and Fengyu Cong (2020) Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354)
   
+*Liting Song, **Guanghui Zhang\*** (corresponding author),  Lan Ma, Johanna Silvennoinen & Fengyu Cong (2025). Comparative analysis of color emotional perception in art and non-art university students: hue, saturation, and brightness effects in the Munsell color system. BMC Psychology.  DOI:[10.1186/s40359-025-03034-y](https://doi.org/10.1186/s40359-025-03034-y).
+
+
 *  Liting Song, **Guanghui Zhang\*** (corresponding author), Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2024). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness.Biological Psychology.  DOI:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787).
   
 *  Reza Mahini, **Guanghui Zhang**, Tiina Parviainen, Rainer Düsing, Asoke K. Nandi, Fengyu Cong & Timo Hämäläinen (2024). Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Brain Topography, 1-23.  DOI:[10.1007/s10548-024-01074-y](https://doi.org/10.1007/s10548-024-01074-y).
