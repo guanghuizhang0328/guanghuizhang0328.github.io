@@ -55,16 +55,16 @@ author_profile: true
 
 * Liting Song, **Guanghui Zhang\*** (corresponding author),  Johanna Silvennoinen & Fengyu Cong (2025). Electroencephalographic (EEG) analysis of hue perception differences between art and non-art majors: insights from the P2 and P3 components. BMC Psychology,13,891 .  DOI:[10.1186/s40359-025-03121-0](https://doi.org/10.1186/s40359-025-03121-0).
   
-* Liting Song, **Guanghui Zhang\*** (corresponding author),  Lan Ma, Johanna Silvennoinen & Fengyu Cong (2025). Comparative analysis of color emotional perception in art and non-art university students: hue, saturation, and brightness effects in the Munsell color system. BMC Psychology.  DOI:[10.1186/s40359-025-03034-y](https://doi.org/10.1186/s40359-025-03034-y).
+* Liting Song, **Guanghui Zhang\*** (corresponding author),  Lan Ma, Johanna Silvennoinen & Fengyu Cong (2025). Comparative analysis of color emotional perception in art and non-art university students: hue, saturation, and brightness effects in the Munsell color system. BMC Psychology , 13(1), 650.  DOI:[10.1186/s40359-025-03034-y](https://doi.org/10.1186/s40359-025-03034-y).
 
-* Liting Song, **Guanghui Zhang\*** (corresponding author), Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2024). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness.Biological Psychology.  DOI:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787).
+* Liting Song, **Guanghui Zhang\*** (corresponding author), Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2024). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness. Biological Psychology, 188, 108787.  DOI:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787).
 
 * Junfu Tian, **Guanghui Zhang**, Qi Zhao & Yingzhi Lu (2025). Action complexity modulates motor performance in the emotional oddball task. Journal of Neurophysiology, 133(4), 1245-1255.  DOI:[10.1152/jn.00480.2023](https://doi.org/10.1152/jn.00480.2023).
   
 *  Reza Mahini, **Guanghui Zhang**, Tiina Parviainen, Rainer Düsing, Asoke K. Nandi, Fengyu Cong & Timo Hämäläinen (2024). Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Brain Topography, 1-23.  DOI:[10.1007/s10548-024-01074-y](https://doi.org/10.1007/s10548-024-01074-y).
 
 
-* Xiaoshuang Wang, **Guanghui Zhang**, Ying Wang, Lin Yang, Zhanhua Liang, and Fengyu Cong. (2022). One-Dimensional Convolutional Neural Networks Combined with Channel Selection Strategy for Seizure Prediction Using Long-Term Intracranial EEG. International Journal of Neural Systems, 32(02), 2150048.  DOI:[10.1142/S0129065721500489](https://doi.org/10.1142/S0129065721500489).
+* Xiaoshuang Wang, **Guanghui Zhang**, Ying Wang, Lin Yang, Zhanhua Liang & Fengyu Cong. (2022). One-Dimensional Convolutional Neural Networks Combined with Channel Selection Strategy for Seizure Prediction Using Long-Term Intracranial EEG. International Journal of Neural Systems, 32(02), 2150048.  DOI:[10.1142/S0129065721500489](https://doi.org/10.1142/S0129065721500489).
 
 * XueyanLi, JiayiSun, HuiliWang, QianruXu, **GuanghuiZhang**, and XiaoshuangWang. (2022). Dynamic impact of intelligence on verbal-humor processing: Evidence from ERPs and EROs. Journal of Neurolinguistics, 62, 101057.  DOI:[10.1016/j.jneuroling.2022.101057](https://doi.org/10.1016/j.jneuroling.2022.101057).
 
