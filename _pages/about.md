@@ -35,7 +35,7 @@ Peer Review
 News
 ======
 
-- 2025 Jul. 7: Congratulations! Our paper entitled "Electroencephalographic (EEG) Analysis of Hue Perception Differences Between Art and Non-Art Majors: Insights from the P2 and P3 Components" was accepted by BMC Psychology. (JCR1)
+- 2025 Jul. 7: Congratulations! Our paper entitled "Electroencephalographic (EEG) Analysis of Hue Perception Differences Between Art and Non-Art Majors: Insights from the P2 and P3 Components" was accepted by BMC Psychology. [doi: https://doi.org/10.1186/s40359-025-03121-0](https://doi.org/10.1186/s40359-025-03121-0) (JCR1)
 
   
 - 2025 Jun. 16: Congratulations! Our paper entitled "Comparative Analysis of Color Emotional Perception in Art and Non-Art University Students:Hue, Saturation, and Brightness Effects in the Munsell Color System" was accepted by BMC Psychology. [doi:10.1186/s40359-025-03034-y](https://doi.org/10.1186/s40359-025-03034-y) (JCR1)
