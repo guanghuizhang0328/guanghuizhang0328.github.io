@@ -49,7 +49,6 @@ author_profile: true
 
 * **Guanghui Zhang**, Xueyan Li, Yingzhi Lu, Timo Tiihonen, Zheng Chang, and Fengyu Cong (2022). Single-trial-based Temporal Principal Component Analysis on Extracting Event-related Potentials of Interest for an Individual Subject.  Journal of Neuroscience Methods, 109768. DOI:[10.1016/j.jneumeth.2022.109768](https://doi.org/10.1016/j.jneumeth.2022.109768).
 
-
 * **Guanghui Zhang**, Chi Zhang, Shuo Cao, Xue Xia, Xin Tan, Lichengxi Si, Chenxin Wang, Xiaochun Wang, Chenglin Zhou, Tapani Ristaniemi, and Fengyu Cong (2020). Multi-domain Features of the Non-phase-locked Component of Interest Extracted from ERP Data by Tensor Decomposition. Brain Topography, 33(1), 37-47. DOI: [10.1007/s10548-019-00750-8](https://doi.org/10.1007/s10548-019-00750-8).
 
 * **Guanghui Zhang**, Xueyan Li, and Fengyu Cong (2020) Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354)
@@ -58,31 +57,33 @@ author_profile: true
   
 * Liting Song, **Guanghui Zhang\*** (corresponding author),  Lan Ma, Johanna Silvennoinen & Fengyu Cong (2025). Comparative analysis of color emotional perception in art and non-art university students: hue, saturation, and brightness effects in the Munsell color system. BMC Psychology.  DOI:[10.1186/s40359-025-03034-y](https://doi.org/10.1186/s40359-025-03034-y).
 
-
 * Liting Song, **Guanghui Zhang\*** (corresponding author), Xiaoshuang Wang, Lan Ma, Johanna Silvennoinen & Fengyu Cong (2024). Does artistic training affect color perception? A study of ERPs and EROs in experiencing colors of different brightness.Biological Psychology.  DOI:[10.1016/j.biopsycho.2024.108787](https://doi.org/10.1016/j.biopsycho.2024.108787).
+
+* Junfu Tian, **Guanghui Zhang**, Qi Zhao & Yingzhi Lu (2025). Action complexity modulates motor performance in the emotional oddball task. Journal of Neurophysiology, 133(4), 1245-1255.  DOI:[10.1152/jn.00480.2023](https://doi.org/10.1152/jn.00480.2023).
   
 *  Reza Mahini, **Guanghui Zhang**, Tiina Parviainen, Rainer Düsing, Asoke K. Nandi, Fengyu Cong & Timo Hämäläinen (2024). Brain Evoked Response Qualification Using Multi-set Consensus Clustering: Toward Single-trial EEG Analysis. Brain Topography, 1-23.  DOI:[10.1007/s10548-024-01074-y](https://doi.org/10.1007/s10548-024-01074-y).
 
-* Xue Xia, **Guanghui Zhang**, and Xiaochun Wang. Anger weakens behavioral inhibition selectively in contact athletes. Frontiers in Human Neuroscience 12 (2018): 463. DOI: [10.3389/fnhum.2018.00463](https://doi.org/10.3389/fnhum.2018.00463).
-
-* XueYan Li, HuiLi Wang, Pertti Saariluoma, **GuangHui Zhang**, YongJie Zhu, Chi Zhang，YuCong Feng，and Tapani Ristaniemi (2019). Processing Mechanism of Chinese Verbal Jokes: Evidence from ERP and Neural Oscillations. Journal of Electronic Science and Technology, 17(3), 260-277. DOI: [10.11989/JEST.1674-862X.80520017](https://doi.org/10.11989/JEST.1674-862X.80520017).
-
-* Xiawen Li, **Guanghui Zhang**, Chenglin Zhou, and Xiaochun Wang. (2019). Negative emotional state slows down movement speed: behavioral and neural evidence. PeerJ, 7, e7591. DOI: [10.7717/peerj.7591](https://doi.org/10.7717/peerj.7591).
-
-* Jiacheng Chen,Yanan Li, **Guanghui Zhang**, Xinhong Jin,Yingzhi Lua, and Chenglin Zhou (2019). Enhanced inhibitory control during re-engagement processing in badminton athletes: An event-related potential study. Journal of Sport and Health Science, 8(6), 585-594. DOI: [10.1016/j.jshs.2019.05.005](https://doi.org/10.1016/j.jshs.2019.05.005).
-
-*  Shuo Cao, Yanzhang Wang, Huili Wang, Hongjun Chen, **Guanghui Zhang**, and Kritikos Ada (2020). A Facilitatory Effect of Perceptual Incongruity on Target-Source Matching in Pictorial Metaphors of Chinese Advertising: EEG Evidence. Advances in Cognitive Psychology, 16(1), 1. DOI: [10.5709/acp-0279-z](https://doi.org/10.5709/acp-0279-z).
-
-* Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663).
-
-
-* Yingying Wang, Qingchun Ji, Rao Fu, **Guanghui Zhang**, Yingzhi Lu,  and Chenglin Zhou(2021). Hand‐related action words impair action anticipation in expert table tennis players: Behavioral and neural evidence. Psychophysiology, e13942.  DOI:[10.1111/psyp.13942](https://doi.org/10.1111/psyp.13942).
 
 * Xiaoshuang Wang, **Guanghui Zhang**, Ying Wang, Lin Yang, Zhanhua Liang, and Fengyu Cong. (2022). One-Dimensional Convolutional Neural Networks Combined with Channel Selection Strategy for Seizure Prediction Using Long-Term Intracranial EEG. International Journal of Neural Systems, 32(02), 2150048.  DOI:[10.1142/S0129065721500489](https://doi.org/10.1142/S0129065721500489).
 
 * XueyanLi, JiayiSun, HuiliWang, QianruXu, **GuanghuiZhang**, and XiaoshuangWang. (2022). Dynamic impact of intelligence on verbal-humor processing: Evidence from ERPs and EROs. Journal of Neurolinguistics, 62, 101057.  DOI:[10.1016/j.jneuroling.2022.101057](https://doi.org/10.1016/j.jneuroling.2022.101057).
 
 * Xiawen Li, Yu Zhou, **Guanghui Zhang**, Yingzhi Lu, Chenglin Zhou, and Hongbiao Wang. (2022). Behavioral and Brain Reactivity Associated With Drug-Related and Non-Drug-Related Emotional Stimuli in Methamphetamine Addicts. Frontiers in Human Neuroscience, 16. DOI:[10.3389/fnhum.2022.894911](https://doi.org/10.3389/fnhum.2022.894911).
+  
+* Yingying Wang, Qingchun Ji, Rao Fu, **Guanghui Zhang**, Yingzhi Lu,  and Chenglin Zhou(2021). Hand‐related action words impair action anticipation in expert table tennis players: Behavioral and neural evidence. Psychophysiology, e13942.  DOI:[10.1111/psyp.13942](https://doi.org/10.1111/psyp.13942).
+
+*  Shuo Cao, Yanzhang Wang, Huili Wang, Hongjun Chen, **Guanghui Zhang**, and Kritikos Ada (2020). A Facilitatory Effect of Perceptual Incongruity on Target-Source Matching in Pictorial Metaphors of Chinese Advertising: EEG Evidence. Advances in Cognitive Psychology, 16(1), 1. DOI: [10.5709/acp-0279-z](https://doi.org/10.5709/acp-0279-z).
+
+* Jiaxin Yu, Yan Wang, Jianling Yu, **Guanghui Zhang**, and Fengyu Cong (2020). Nudge for justice: An ERP investigation of default effects on trade-offs between equity and efficiency. Neuropsychologia. DOI:[10.1016/j.neuropsychologia.2020.107663](https://doi.org/10.1016/j.neuropsychologia.2020.107663).
+  
+* XueYan Li, HuiLi Wang, Pertti Saariluoma, **GuangHui Zhang**, YongJie Zhu, Chi Zhang，YuCong Feng，and Tapani Ristaniemi (2019). Processing Mechanism of Chinese Verbal Jokes: Evidence from ERP and Neural Oscillations. Journal of Electronic Science and Technology, 17(3), 260-277. DOI: [10.11989/JEST.1674-862X.80520017](https://doi.org/10.11989/JEST.1674-862X.80520017).
+
+* Jiacheng Chen,Yanan Li, **Guanghui Zhang**, Xinhong Jin,Yingzhi Lua, and Chenglin Zhou (2019). Enhanced inhibitory control during re-engagement processing in badminton athletes: An event-related potential study. Journal of Sport and Health Science, 8(6), 585-594. DOI: [10.1016/j.jshs.2019.05.005](https://doi.org/10.1016/j.jshs.2019.05.005).
+
+  
+* Xiawen Li, **Guanghui Zhang**, Chenglin Zhou, and Xiaochun Wang. (2019). Negative emotional state slows down movement speed: behavioral and neural evidence. PeerJ, 7, e7591. DOI: [10.7717/peerj.7591](https://doi.org/10.7717/peerj.7591).
+
+* Xue Xia, **Guanghui Zhang**, and Xiaochun Wang. Anger weakens behavioral inhibition selectively in contact athletes. Frontiers in Human Neuroscience 12 (2018): 463. DOI: [10.3389/fnhum.2018.00463](https://doi.org/10.3389/fnhum.2018.00463).
 
 4 Conference papers
 ------
