@@ -53,7 +53,7 @@ author_profile: true
 
 * **Guanghui Zhang**, Xueyan Li, and Fengyu Cong (2020) Objective Extraction of Evoked Event-Related Oscillation from Time-Frequency Representation of Event-Related Potentials, Neural Plasticity, vol. 2020, Article ID 8841354, 20 pages. DOI:[10.1155/2020/8841354](https://doi.org/10.1155/2020/8841354)
 
-* Liting Song, **Guanghui Zhang\*** (corresponding author),  Johanna Silvennoinen & Fengyu Cong (2025). Electroencephalographic (EEG) analysis of hue perception differences between art and non-art majors: insights from the P2 and P3 components. BMC Psychology.  DOI:[10.1186/s40359-025-03121-0](https://doi.org/10.1186/s40359-025-03121-0).
+* Liting Song, **Guanghui Zhang\*** (corresponding author),  Johanna Silvennoinen & Fengyu Cong (2025). Electroencephalographic (EEG) analysis of hue perception differences between art and non-art majors: insights from the P2 and P3 components. BMC Psychology,13,891 .  DOI:[10.1186/s40359-025-03121-0](https://doi.org/10.1186/s40359-025-03121-0).
   
 * Liting Song, **Guanghui Zhang\*** (corresponding author),  Lan Ma, Johanna Silvennoinen & Fengyu Cong (2025). Comparative analysis of color emotional perception in art and non-art university students: hue, saturation, and brightness effects in the Munsell color system. BMC Psychology.  DOI:[10.1186/s40359-025-03034-y](https://doi.org/10.1186/s40359-025-03034-y).
 
