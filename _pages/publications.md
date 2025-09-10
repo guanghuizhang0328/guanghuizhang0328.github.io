@@ -87,25 +87,22 @@ author_profile: true
 
 4 Conference papers
 ------
-* **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, and Fengyu Cong (2018). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. DOI: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63).
+* [1] **Guanghui Zhang**, Lili Tian, Huaming Chen, Peng Li, Tapani Ristaniemi, Huili Wang, Hong Li, Hongjun Chen, and Fengyu Cong (2018). Effect of parametric variation of center frequency and bandwidth of morlet wavelet transform on time-frequency analysis of event-related potentials. In Chinese intelligent systems conference (pp. 693-702). Springer, Singapore. DOI: [10.1007/978-981-10-6496-8_63](https://doi.org/10.1007/978-981-10-6496-8_63).
 
 5 Preprint
 ------
-* Liting Song, **Guanghui Zhang\***, Johanna Silvennoinen & Fengyu Cong. "The P2 component reveals the early perception of varied hues of colors differs between art majors and non-art major." (2024).
 
-* 6. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li,  Tiina Parviainen,Fengyu Cong \& Tommi Kärkkäinen. Neurocognitive Dynamics of Icon Design: EEG Evidence from Style and Activation Effects on Visual Search Efficiency.  {\bf Submitted to International Journal of Human–Computer Interaction}.
+* [6]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li,  Tiina Parviainen,Fengyu Cong \& Tommi Kärkkäinen. Neurocognitive Dynamics of Icon Design: EEG Evidence from Style and Activation Effects on Visual Search Efficiency.  {\bf Submitted to International Journal of Human–Computer Interaction}.
   
-* 5. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li, Dong Tang, Tiina Parviainen,Fengyu Cong \& Tommi Kärkkäinen. EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation.  {\bf Submitted to BMC Psychology}.
+* [5]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li, Dong Tang, Tiina Parviainen,Fengyu Cong \& Tommi Kärkkäinen. EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation.  {\bf Submitted to BMC Psychology}.
   
-* 4. **Guanghui Zhang\*** & Steven J. Luck. Maximizing EEG decoding for experimental designs with different numbers of trials per condition. {\bf in preparation}.
+* [4]. **Guanghui Zhang\*** & Steven J. Luck. Maximizing EEG decoding for experimental designs with different numbers of trials per condition. {\bf in preparation}.
 
-
-* 3. **Guanghui Zhang\***, Xinran Wang \& Steven J. Luck. Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. {\bf in preparation}.
+* [3]. **Guanghui Zhang\***, Xinran Wang \& Steven J. Luck. Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. {\bf in preparation}.
 
 * [2]. **Guanghui Zhang\***, Xinran Wang, Ying Xin,Weiqi He \& Wenbo Luo.  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. {\bf Submitted to Cortex}.
 
-* 1. **Guanghui Zhang\***, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He \& Wenbo Luo.  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. {\bf Submitted to NeuroImage}.
-
+* [1]. **Guanghui Zhang\***, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He \& Wenbo Luo.  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. {\bf Submitted to NeuroImage}.
 
 
 6 Dissertation
