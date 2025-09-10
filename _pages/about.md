@@ -32,7 +32,8 @@ Peer Review
 3. 《Behavior Research Methods》
 4. 《Cortex》
 5. 《Alpha Psychiatry》
-6. ...
+6. 《International Journal of Psychophysiology》
+7. ...
 
 News
 ======
