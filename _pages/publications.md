@@ -100,9 +100,9 @@ author_profile: true
 
 * [3]. **Guanghui Zhang\***, Xinran Wang & Steven J. Luck. Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. **in preparation**.
 
-* [2]. **Guanghui Zhang\***, Xinran Wang, Ying Xin,Weiqi He & Wenbo Luo.  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. **Submitted to Cortex**.
+* [2]. **Guanghui Zhang**, Xinran Wang, Ying Xin,Weiqi He & Wenbo Luo.  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. **Submitted to Cortex**.
 
-* [1]. **Guanghui Zhang\***, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He & Wenbo Luo.  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. **Submitted to NeuroImage**.
+* [1]. **Guanghui Zhang**, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He & Wenbo Luo.  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. **Submitted to NeuroImage**.
 
 
 6 Dissertation
