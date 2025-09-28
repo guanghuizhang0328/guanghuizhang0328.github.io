@@ -33,7 +33,8 @@ Peer Review
 4. 《Cortex》
 5. 《Alpha Psychiatry》
 6. 《International Journal of Psychophysiology》
-7. ...
+7. 《NeuroImage》
+8. ...
 
 News
 ======
