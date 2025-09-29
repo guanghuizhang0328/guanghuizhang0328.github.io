@@ -35,13 +35,14 @@ author_profile: true
 
 3 Journal  papers 
 ------
+* [25]. **Guanghui Zhang**, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He & Wenbo Luo (2025).  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. **NeuroImage**.
 * [24]. **Guanghui Zhang** & Steven J. Luck. (2025).  Assessing the impact of artifact correction and artifact rejection on the performance of SVM and LDA-based decoding of EEG signals. Neuroimage. DOI:[10.1016/j.neuroimage.2025.121304](https://doi.org/10.1016/j.neuroimage.2025.121304)
   
-* [23]. **Guanghui Zhang**, Carlos D. Carrasco, Kurt Winsler, Brett Bahle, Fengyu Cong, and Steven J. Luck. (2024).  Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data. Neuroimage. DOI:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625)
+* [23]. **Guanghui Zhang**, Carlos D. Carrasco, Kurt Winsler, Brett Bahle, Fengyu Cong, and Steven J. Luck (2024).  Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data. Neuroimage. DOI:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625)
 
-* [22]. **Guanghui Zhang**, David R. Garrett & Steven J. Luck. (2024). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. Psychophysiology. DOI:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530).
+* [22]. **Guanghui Zhang**, David R. Garrett & Steven J. Luck (2024). Optimal Filters for ERP Research II: Recommended Settings for Seven Common ERP Components. Psychophysiology. DOI:[10.1111/psyp.14530](https://doi.org/10.1111/psyp.14530).
   
-* [21]. **Guanghui Zhang**, David R. Garrett & Steven J. Luck. (2024). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. Psychophysiology. DOI:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531).
+* [21]. **Guanghui Zhang**, David R. Garrett & Steven J. Luck (2024). Optimal Filters for ERP Research I: A General Approach for Selecting Filter Settings. Psychophysiology. DOI:[10.1111/psyp.14531](https://doi.org/10.1111/psyp.14531).
 
 * [20]. **Guanghui Zhang**, David R. Garrett, Aaron M. Simmons, John E. Kiat,  & Steven J. Luck (2024). Evaluating the Effectiveness of Artifact Correction and Rejection in Event-related Potential Research. Psychophysiology. DOI:[10.1111/psyp.14511](https://doi.org/10.1111/psyp.14511).
   
@@ -92,18 +93,15 @@ author_profile: true
 5 Manuscripts in Progress
 ------
 
-* [6]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li,  Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. Neurocognitive Dynamics of Icon Design: EEG Evidence from Style and Activation Effects on Visual Search Efficiency.  **Submitted to International Journal of Human–Computer Interaction**.
+* [5]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li,  Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. Neurocognitive Dynamics of Icon Design: EEG Evidence from Style and Activation Effects on Visual Search Efficiency.  **Submitted to International Journal of Human–Computer Interaction**.
   
-* [5]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li, Dong Tang, Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation.  **Submitted to BMC Psychology**.
+* [4]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li, Dong Tang, Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation.  **Submitted to BMC Psychology**.
   
-* [4]. **Guanghui Zhang\*** & Steven J. Luck. Maximizing EEG decoding for experimental designs with different numbers of trials per condition. **in preparation**.
+* [3]. **Guanghui Zhang\*** & Steven J. Luck. Maximizing EEG decoding for experimental designs with different numbers of trials per condition. **in preparation**.
 
-* [3]. **Guanghui Zhang\***, Xinran Wang & Steven J. Luck. Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. **in preparation**.
+* [2]. **Guanghui Zhang\***, Xinran Wang & Steven J. Luck. Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. **in preparation**.
 
-* [2]. **Guanghui Zhang**, Xinran Wang, Ying Xin,Fengyu Cong, Weiqi He & Wenbo Luo.  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. **in preparation**.
-
-* [1]. **Guanghui Zhang**, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He & Wenbo Luo.  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. **Submitted to NeuroImage**.
-
+* [1]. **Guanghui Zhang**, Xinran Wang, Ying Xin,Fengyu Cong, Weiqi He & Wenbo Luo.  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. **in preparation**.
 
 6 Dissertation
 ------
