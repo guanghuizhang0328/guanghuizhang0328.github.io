@@ -38,6 +38,8 @@ Peer Review
 
 News
 ======
+- 2025 Sep. 29: Congratulations! Our paper entitled "Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study" was accepted by NeuroImage
+
 - 2025 Aug. 20: Our paper  has been preprinted in OSF: "Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study" [doi: 10.31219/osf.io/jc56m_v1](https://doi.org/10.31219/osf.io/jc56m_v1).
   
 - 2025 Jul. 7: Congratulations! Our paper entitled "Electroencephalographic (EEG) Analysis of Hue Perception Differences Between Art and Non-Art Majors: Insights from the P2 and P3 Components" was accepted by BMC Psychology. [doi: https://doi.org/10.1186/s40359-025-03121-0](https://doi.org/10.1186/s40359-025-03121-0) (JCR1)
