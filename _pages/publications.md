@@ -35,7 +35,7 @@ author_profile: true
 
 3 Journal  papers 
 ------
-* [25]. **Guanghui Zhang**, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He & Wenbo Luo (2025).  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. **NeuroImage**.
+* [25]. **Guanghui Zhang**, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He & Wenbo Luo (2025).  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. NeuroImage, 121486. DOI:[10.1016/j.neuroimage.2025.121486](https://doi.org/10.1016/j.neuroimage.2025.121486)
 * [24]. **Guanghui Zhang** & Steven J. Luck. (2025).  Assessing the impact of artifact correction and artifact rejection on the performance of SVM and LDA-based decoding of EEG signals. Neuroimage. DOI:[10.1016/j.neuroimage.2025.121304](https://doi.org/10.1016/j.neuroimage.2025.121304)
   
 * [23]. **Guanghui Zhang**, Carlos D. Carrasco, Kurt Winsler, Brett Bahle, Fengyu Cong, and Steven J. Luck (2024).  Assessing the effectiveness of spatial PCA on SVM-based decoding of EEG data. Neuroimage. DOI:[10.1016/j.neuroimage.2024.120625](https://doi.org/10.1016/j.neuroimage.2024.120625)
