@@ -27,14 +27,12 @@ Research Interests
 
 Peer Review
 ======
-1. 《Nature Communications》
-2. 《Psychophysiology》
-3. 《Behavior Research Methods》
-4. 《Cortex》
-5. 《Alpha Psychiatry》
-6. 《International Journal of Psychophysiology》
-7. 《NeuroImage》
-8. ...
+Nature Communications,Psychophysiology,Behavior Research Methods,Cortex,Alpha Psychiatry, International Journal of Psychophysiology, NeuroImage,iScience
+
+Other
+======
+1. Editorial Board of Scientific Reports
+
 
 News
 ======
