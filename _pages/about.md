@@ -38,12 +38,12 @@ Other
 News
 ======
 
-- 2025 Dec. 24: The preprinted was available now: "The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research" [doi: 10.64898/2025.12.24.696322](https://doi.org/10.64898/2025.12.24.696322).
+- 2025 Dec. 24: The preprint was available now: "The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research" [doi: 10.64898/2025.12.24.696322](https://doi.org/10.64898/2025.12.24.696322).
 
   
-- 2025 Dec. 12: The preprinted was available now: "EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation" [doi: 10.64898/2025.12.12.693903](https://doi.org/10.64898/2025.12.12.693903).
+- 2025 Dec. 12: The preprint was available now: "EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation" [doi: 10.64898/2025.12.12.693903](https://doi.org/10.64898/2025.12.12.693903).
   
-- 2025 Dec. 10: The preprinted was available now: "Evaluating the effects of regularization and cross-validation parameters on the performance of SVM-based decoding of EEG data" [doi: 10.64898/2025.12.10.693548](https://doi.org/10.64898/2025.12.10.693548).
+- 2025 Dec. 10: The preprint was available now: "Evaluating the effects of regularization and cross-validation parameters on the performance of SVM-based decoding of EEG data" [doi: 10.64898/2025.12.10.693548](https://doi.org/10.64898/2025.12.10.693548).
 
 - 2025 Sep. 29: Congratulations! Our paper entitled "Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study" was accepted by NeuroImage. [doi: 10.1016/j.neuroimage.2025.121486](https://doi.org/10.1016/j.neuroimage.2025.121486). 
 
