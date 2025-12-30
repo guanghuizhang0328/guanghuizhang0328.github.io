@@ -27,7 +27,8 @@ Research Interests
 
 Peer Review
 ======
-Nature Communications,Psychophysiology,Behavior Research Methods,Cortex,Alpha Psychiatry, International Journal of Psychophysiology, NeuroImage,iScience
+Nature Communications,Psychophysiology,Behavior Research Methods,Cortex,Alpha Psychiatry, International Journal of Psychophysiology,
+NeuroImage,iScience, Social Cognitive and Affective Neuroscience
 
 Other
 ======
@@ -36,6 +37,8 @@ Other
 
 News
 ======
+
+
 - 2025 Sep. 29: Congratulations! Our paper entitled "Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study" was accepted by NeuroImage. [doi: 10.1016/j.neuroimage.2025.121486](https://doi.org/10.1016/j.neuroimage.2025.121486). 
 
 - 2025 Aug. 20: Our paper  has been preprinted in OSF: "Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study" [doi: 10.31219/osf.io/jc56m_v1](https://doi.org/10.31219/osf.io/jc56m_v1).
