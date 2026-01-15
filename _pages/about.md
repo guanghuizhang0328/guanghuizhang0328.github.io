@@ -38,6 +38,9 @@ Other
 News
 ======
 
+- 2026 Jan. 15:  Congratulations! Our paper entitled "Neurocognitive Dynamics of Icon Design: EEG Evidence  from Style and Activation Effects on Visual Search Efficiency" was accepted by International Journal of Human-Computer Interaction.
+
+  
 - 2025 Dec. 24: The preprint was available now: "The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research" [doi: 10.64898/2025.12.24.696322](https://doi.org/10.64898/2025.12.24.696322).
 
   
