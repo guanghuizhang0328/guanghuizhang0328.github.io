@@ -38,6 +38,8 @@ Other
 News
 ======
 
+-  2026 Jan. 26: The preprint was available now:Task-Dependent Effects of Channel Density on Multivariate Pattern Analysis and Spatial Representational Similarity Analysis: Evidence from Three EEG Datasets  [doi: 10.64898/2026.01.26.701731](https://doi.org/10.64898/2026.01.26.701731).
+  
 - 2026 Jan. 15:  Congratulations! Our paper entitled "Neurocognitive Dynamics of Icon Design: EEG Evidence  from Style and Activation Effects on Visual Search Efficiency" was accepted by International Journal of Human-Computer Interaction.
 
   
