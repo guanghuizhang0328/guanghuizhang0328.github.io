@@ -40,7 +40,7 @@ News
 
 -  2026 Jan. 26: The preprint was available now:Task-Dependent Effects of Channel Density on Multivariate Pattern Analysis and Spatial Representational Similarity Analysis: Evidence from Three EEG Datasets  [doi: 10.64898/2026.01.26.701731](https://doi.org/10.64898/2026.01.26.701731).
   
-- 2026 Jan. 15:  Congratulations! Our paper entitled "Neurocognitive Dynamics of Icon Design: EEG Evidence  from Style and Activation Effects on Visual Search Efficiency" was accepted by International Journal of Human-Computer Interaction.
+- 2026 Jan. 15:  Congratulations! Our paper entitled "Neurocognitive Dynamics of Icon Design: EEG Evidence  from Style and Activation Effects on Visual Search Efficiency" was accepted by International Journal of Human-Computer Interaction.  [doi: 10.1080/10447318.2026.2622574](https://doi.org/10.1080/10447318.2026.2622574)
 
   
 - 2025 Dec. 24: The preprint was available now: "The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research" [doi: 10.64898/2025.12.24.696322](https://doi.org/10.64898/2025.12.24.696322).
