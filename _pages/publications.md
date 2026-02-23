@@ -35,6 +35,8 @@ author_profile: true
 
 3 Journal  papers 
 ------
+* [26]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li,  Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen (2026). Neurocognitive Dynamics of Icon Design: EEG Evidence from Style and Activation Effects on Visual Search Efficiency. . International Journal of Human–Computer Interaction, 1–19. DOI:[10.1080/10447318.2026.2622574] (https://doi.org/10.1080/10447318.2026.2622574)
+  
 * [25]. **Guanghui Zhang**, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He & Wenbo Luo (2025).  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. NeuroImage, 121486. DOI:[10.1016/j.neuroimage.2025.121486](https://doi.org/10.1016/j.neuroimage.2025.121486)
 * [24]. **Guanghui Zhang** & Steven J. Luck. (2025).  Assessing the impact of artifact correction and artifact rejection on the performance of SVM and LDA-based decoding of EEG signals. Neuroimage. DOI:[10.1016/j.neuroimage.2025.121304](https://doi.org/10.1016/j.neuroimage.2025.121304)
   
@@ -93,7 +95,7 @@ author_profile: true
 5 Manuscripts in Progress
 ------
 
-* [5]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li,  Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. Neurocognitive Dynamics of Icon Design: EEG Evidence from Style and Activation Effects on Visual Search Efficiency.  **Submitted to International Journal of Human–Computer Interaction**.
+
   
 * [4]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li, Dong Tang, Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation.  **Submitted to BMC Psychology**.
   
