@@ -94,6 +94,8 @@ author_profile: true
 
 5 Manuscripts in Progress
 ------
+* [6].  Limin Hou,  **Guanghui Zhang\*** (corresponding author), Yuxing Hao, Tommi Kärkkäinen & Fengyu Cong. Task-Dependent Effects of Channel Density on Multivariate Pattern Analysis and Spatial Representational Similarity Analysis: Evidence from Three EEG Dataset. **in preparation**.
+
 * [5]. Ying Xin, Limin Hou, Xinran Wang, Fengyu Cong, Weiqi He, **Wenbo Luo\*** (corresponding author), and  **Guanghui Zhang\*** (corresponding author).Best practices and pitfalls in multivariate pattern analysis of event-related potentials: A systematic review of preprocessing and analytical configurations.  **Submitted to Cortex**.
 
   
