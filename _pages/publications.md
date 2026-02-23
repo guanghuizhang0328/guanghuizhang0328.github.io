@@ -94,16 +94,16 @@ author_profile: true
 
 5 Manuscripts in Progress
 ------
-
+* [5]. Ying Xin, Limin Hou, Xinran Wang, Fengyu Cong, Weiqi He, **Wenbo Luo\*** (corresponding author), and  **Guanghui Zhang\*** (corresponding author).Best practices and pitfalls in multivariate pattern analysis of event-related potentials: A systematic review of preprocessing and analytical configurations.  **Submitted to Cortex**.
 
   
 * [4]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li, Dong Tang, Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation.  **Submitted to BMC Psychology**.
   
 * [3]. **Guanghui Zhang\*** & Steven J. Luck. Maximizing EEG decoding for experimental designs with different numbers of trials per condition. **in preparation**.
 
-* [2]. **Guanghui Zhang\***, Xinran Wang & Steven J. Luck. Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. **in preparation**.
+* [2]. **Guanghui Zhang\***, Xinran Wang & Steven J. Luck. Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. **Submitted to Cortex**.
 
-* [1]. **Guanghui Zhang**, Xinran Wang, Ying Xin,Fengyu Cong, Weiqi He & Wenbo Luo.  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. **in preparation**.
+* [1]. **Guanghui Zhang**, Xinran Wang, Ying Xin,Fengyu Cong, Weiqi He & Wenbo Luo.  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. **Submitted to NeuroImage**.
 
 6 Dissertation
 ------
