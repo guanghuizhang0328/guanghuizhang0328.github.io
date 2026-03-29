@@ -35,7 +35,9 @@ author_profile: true
 
 3 Journal  papers 
 ------
-* [26]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li,  Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen (2026). Neurocognitive Dynamics of Icon Design: EEG Evidence from Style and Activation Effects on Visual Search Efficiency. . International Journal of Human–Computer Interaction, 1–19. DOI:[10.1080/10447318.2026.2622574](https://doi.org/10.1080/10447318.2026.2622574)
+* [27]. Shuo Cao, Ao Wang, **Guanghui Zhang\*** ,Xueyan Li, & Huili Wang (2026). The effects of verbal anchoring position on the processing of pictorial metaphors: An ERP study. Journal of Neurolinguistics 79 (2026): 101332. DOI:[10.1016/j.jneuroling.2026.101332](https://doi.org/10.1016/j.jneuroling.2026.101332)
+
+* [26]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li,  Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen (2026). Neurocognitive Dynamics of Icon Design: EEG Evidence from Style and Activation Effects on Visual Search Efficiency. International Journal of Human–Computer Interaction, 1–19. DOI:[10.1080/10447318.2026.2622574](https://doi.org/10.1080/10447318.2026.2622574)
   
 * [25]. **Guanghui Zhang**, Ying Xin, Liting Song, Xinran Wang, Lihong Chen, Weiqi He & Wenbo Luo (2025).  Temporal dynamics of perceptual integrity and semantic congruency during color-word processing: An ERP and decoding study. NeuroImage, 121486. DOI:[10.1016/j.neuroimage.2025.121486](https://doi.org/10.1016/j.neuroimage.2025.121486)
 * [24]. **Guanghui Zhang** & Steven J. Luck. (2025).  Assessing the impact of artifact correction and artifact rejection on the performance of SVM and LDA-based decoding of EEG signals. Neuroimage. DOI:[10.1016/j.neuroimage.2025.121304](https://doi.org/10.1016/j.neuroimage.2025.121304)
