@@ -27,7 +27,7 @@ Research Interests
 
 Peer Review
 ======
-Nature Communications, Psychophysiology, Behavior Research Methods, Cortex, Alpha Psychiatry, International Journal of Psychophysiology,
+Nature Communications, Neuroscience and Biobehavioral Reviews， Psychophysiology, Behavior Research Methods, Cortex, Alpha Psychiatry, International Journal of Psychophysiology,
 NeuroImage, iScience, Social Cognitive and Affective Neuroscience, Neural Networks
 
 Other
