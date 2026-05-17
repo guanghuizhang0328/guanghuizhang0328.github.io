@@ -37,7 +37,7 @@ Other
 News
 ======
 
--  2026 May. 8: Congratulations! Our paper entitled "Evaluating the effects of regularization and cross-validation parameters on the performance of SVM-based decoding of EEG data" was accepted by Cortex.  
+-  2026 May. 8: Congratulations! Our paper entitled "Evaluating the effects of regularization and cross-validation parameters on the performance of SVM-based decoding of EEG data" was accepted by Cortex.  [doi:10.1016/j.cortex.2026.05.005](https://doi.org/10.1016/j.cortex.2026.05.005) 
 
   
 -  2026 May. 6: Congratulations! Our paper entitled "The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research" was accepted by NeuroImage.  [doi:10.1016/j.neuroimage.2026.121981](https://doi.org/10.1016/j.neuroimage.2026.121981)
