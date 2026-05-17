@@ -35,7 +35,10 @@ author_profile: true
 
 3 Journal  papers 
 ------
-* [28]. **Guanghui Zhang**, Xinran Wang, Ying Xin,Fengyu Cong, Weiqi He & Wenbo Luo.  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. NeuroImage. DOI:[10.1016/j.neuroimage.2026.121981](https://doi.org/10.1016/j.neuroimage.2026.121981)
+
+* [29]. **Guanghui Zhang\***, Xinran Wang, Kurt Winsler & Steven J. Luck (2026). Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. Cortex. DOI:[10.1016/j.cortex.2026.05.005](https://doi.org/10.1016/j.cortex.2026.05.005)
+  
+* [28]. **Guanghui Zhang**, Xinran Wang, Ying Xin,Fengyu Cong, Weiqi He & Wenbo Luo (2026).  The impact of downsampling on data quality, univariate measurement and multivariate pattern analysis in event-related potential research. NeuroImage. DOI:[10.1016/j.neuroimage.2026.121981](https://doi.org/10.1016/j.neuroimage.2026.121981)
   
 * [27]. Shuo Cao, Ao Wang, **Guanghui Zhang** ,Xueyan Li, & Huili Wang (2026). The effects of verbal anchoring position on the processing of pictorial metaphors: An ERP study. Journal of Neurolinguistics 79 (2026): 101332. DOI:[10.1016/j.jneuroling.2026.101332](https://doi.org/10.1016/j.jneuroling.2026.101332)
 
@@ -98,16 +101,15 @@ author_profile: true
 
 5 Manuscripts in Progress
 ------
-* [5].  Limin Hou,  **Guanghui Zhang\*** (corresponding author), Yuxing Hao, Tommi Kärkkäinen & Fengyu Cong. Task-Dependent Effects of Channel Density on Multivariate Pattern Analysis and Spatial Representational Similarity Analysis: Evidence from Three EEG Dataset. **in preparation**.
+* [4].  Limin Hou,  **Guanghui Zhang\*** (corresponding author), Yuxing Hao, Tommi Kärkkäinen & Fengyu Cong. Task-Dependent Effects of Channel Density on Multivariate Pattern Analysis and Spatial Representational Similarity Analysis: Evidence from Three EEG Dataset. **in preparation**.
 
-* [4]. Ying Xin, Limin Hou, Xinran Wang, Fengyu Cong, Weiqi He, **Wenbo Luo\*** (corresponding author), and  **Guanghui Zhang\*** (corresponding author).Best practices and pitfalls in multivariate pattern analysis of event-related potentials: A systematic review of preprocessing and analytical configurations.  **Submitted to Cortex**.
+* [3]. Ying Xin, Limin Hou, Xinran Wang, Fengyu Cong, Weiqi He, **Wenbo Luo\*** (corresponding author), and  **Guanghui Zhang\*** (corresponding author).Best practices and pitfalls in multivariate pattern analysis of event-related potentials: A systematic review of preprocessing and analytical configurations.  **Submitted to Cortex**.
 
   
-* [3]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li, Dong Tang, Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation.  **Submitted to BMC Psychology**.
+* [2]. Limin Hou, **Guanghui Zhang\*** (corresponding author), Xiawen Li, Dong Tang, Tiina Parviainen,Fengyu Cong & Tommi Kärkkäinen. EEG-based analyses reveal different temporal processing patterns in aesthetic evaluation.  **Submitted to BMC Psychology**.
   
-* [2]. **Guanghui Zhang\*** & Steven J. Luck. Maximizing EEG decoding for experimental designs with different numbers of trials per condition. **in preparation**.
+* [1]. **Guanghui Zhang\*** & Steven J. Luck. Maximizing EEG decoding for experimental designs with different numbers of trials per condition. **in preparation**.
 
-* [1]. **Guanghui Zhang\***, Xinran Wang & Steven J. Luck. Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. **Submitted to Cortex**.
 
 
 6 Dissertation
