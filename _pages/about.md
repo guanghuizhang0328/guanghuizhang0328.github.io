@@ -31,7 +31,7 @@ Nature Human Behaviour, Nature Communications, Neuroscience and Biobehavioral Re
 
 Other
 ======
-1. Editorial Board of Scientific Reports,  Communications Psychology
+1. Editorial Board of Scientific Reports
 
 
 News
