@@ -35,10 +35,8 @@ author_profile: true
 
 3 Journal  papers 
 ------
-* [32]. Yiheng Chen, **Guanghui Zhang**, Yinyue Wang, Gi‐Yeul Bae, Yingzhi Lu (2026).Motor Expertise Differentiates the Representational Structure of Graded Error Monitoring in Midfrontal Theta. Annals of the New York Academy of Sciences. DOI:[10.1111/nyas.70426]( https://doi.org/10.1111/nyas.70426)
+* [31]. Yiheng Chen, **Guanghui Zhang**, Yinyue Wang, Gi‐Yeul Bae, Yingzhi Lu (2026).Motor Expertise Differentiates the Representational Structure of Graded Error Monitoring in Midfrontal Theta. Annals of the New York Academy of Sciences. DOI:[10.1111/nyas.70426]( https://doi.org/10.1111/nyas.70426)
   
-* [31]. Shuo Cao, Ao Wang, **Guanghui Zhang**, Xueyan Li, Huili Wang (2026).The effects of verbal anchoring position on the processing of pictorial metaphors: An ERP study. Journal of Neurolinguistics. DOI:[10.1016/j.jneuroling.2026.101332](https://doi.org/10.1016/j.jneuroling.2026.101332)
- 
 * [30]. Xiangbo Yan, Robin Shao, Jingwen Jin, Weicong Lu, Zhongqing Jiang, **Guanghui Zhang**, Qing Zhang, Xiaoyue Li, Xinhe Tian, Brendon Stubbs, Davy Vancampfort, Marco Solmi, Michele Fornaro, Andre F Carvalho, Sonata Suk-yu Yau, Fengyu Cong, Kwok-fai So & Kangguang Lin (2026).Aerobic Exercise and Subthreshold Depressive Symptoms in Adolescents: Secondary Analysis of a Randomized Clinical Trial. JAMA Network Open. DOI:[10.1001/jamanetworkopen.2026.21568](https://doi.org/10.1001/jamanetworkopen.2026.21568)
   
 * [29]. **Guanghui Zhang\***, Xinran Wang, Kurt Winsler & Steven J. Luck (2026). Evaluating the effects of regularization strengths and number of crossfolds on the performance of  SVM-based decoding of EEG data. Cortex. DOI:[10.1016/j.cortex.2026.05.005](https://doi.org/10.1016/j.cortex.2026.05.005)
